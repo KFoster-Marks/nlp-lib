@@ -1,0 +1,2 @@
+nose
+spacy >= 2.1
