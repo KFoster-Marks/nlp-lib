@@ -28,6 +28,10 @@ class AdvancedTestSuite(unittest.TestCase):
         text2 = 'Members of the Sackler family profit almost 4 billion dollars from the sale of several ski resorts.'
         assert src.get_named_entities_metadata(text2) == [{'text': 'Sackler', 'label': 'PERSON'}, {'text': 'almost 4 billion dollars', 'label': 'MONEY'}]
 
+    def test_get_named_entity_label_explanations(self):
+        labels = ['PERSON', 'MONEY', 'ORG', 'NORP']
+        assert src.get_named_entity_label_explanations(labels) == [{'label': 'PERSON', 'explanation': 'People, including fictional'}, {'label': 'MONEY', 'explanation': 'Monetary values, including unit'}, {'label': 'ORG', 'explanation': 'Companies, agencies, institutions, etc.'}, {'label': 'NORP', 'explanation': 'Nationalities or religious or political groups'}]
+
     def test_get_noun_phrases(self):
         text = 'The doughnuts fell into my belly with disconcerting speed.'
         assert src.get_base_noun_phrases(text) == ['The doughnuts', 'my belly', 'disconcerting speed']
