@@ -21,6 +21,10 @@ class AdvancedTestSuite(unittest.TestCase):
         text = 'Ms. Harris ordered the National Guard to the Canadian border.'
         assert src.get_named_entities(text) == ['Harris', 'the National Guard', 'Canadian']
 
+    def test_get_named_entities_metadata(self):
+        text = 'Ms. Harris ordered the National Guard to the Canadian border.'
+        assert src.get_named_entities_metadata(text) == [{'text': 'Harris', 'label': 'PERSON'}, {'text': 'the National Guard', 'label': 'ORG'}, {'text': 'Canadian', 'label': 'NORP'}]
+
     def test_get_noun_phrases(self):
         text = 'The doughnuts fell into my belly with disconcerting speed.'
         assert src.get_base_noun_phrases(text) == ['The doughnuts', 'my belly', 'disconcerting speed']

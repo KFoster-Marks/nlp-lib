@@ -23,11 +23,20 @@ def get_named_entities(text):
 
     return entities
 
+def get_named_entities_metadata(text):
+    metadata = []
+    doc = nlp(text)
+
+    for ent in doc.ents:
+        entMetadata = dict(text=ent.text, label=ent.label_)
+        metadata.append(entMetadata)
+    print(metadata)
+    return metadata
+
 def get_base_noun_phrases(text):
     noun_phrases = []
     doc = nlp(text)
     for phrase in doc.noun_chunks:
-        logUtil(phrase.text)
         noun_phrases.append(phrase.text)
 
     return noun_phrases
