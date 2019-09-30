@@ -25,6 +25,9 @@ class AdvancedTestSuite(unittest.TestCase):
         text = 'Ms. Harris ordered the National Guard to the Canadian border.'
         assert src.get_named_entities_metadata(text) == [{'text': 'Harris', 'label': 'PERSON'}, {'text': 'the National Guard', 'label': 'ORG'}, {'text': 'Canadian', 'label': 'NORP'}]
 
+        text2 = 'Members of the Sackler family profit almost 4 billion dollars from the sale of several ski resorts.'
+        assert src.get_named_entities_metadata(text2) == [{'text': 'Sackler', 'label': 'PERSON'}, {'text': 'almost 4 billion dollars', 'label': 'MONEY'}]
+
     def test_get_noun_phrases(self):
         text = 'The doughnuts fell into my belly with disconcerting speed.'
         assert src.get_base_noun_phrases(text) == ['The doughnuts', 'my belly', 'disconcerting speed']
