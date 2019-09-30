@@ -3,6 +3,9 @@ import spacy
 
 nlp = spacy.load("en_core_web_sm")
 
+def logUtil(text):
+    print(text, end=' | ')
+
 def get_tokens(text):
     tokens = []
     doc = nlp.make_doc(text)
@@ -24,6 +27,7 @@ def get_base_noun_phrases(text):
     noun_phrases = []
     doc = nlp(text)
     for phrase in doc.noun_chunks:
+        logUtil(phrase.text)
         noun_phrases.append(phrase.text)
-    print(noun_phrases)
+
     return noun_phrases
