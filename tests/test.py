@@ -39,5 +39,9 @@ class AdvancedTestSuite(unittest.TestCase):
         text2 = 'A national park system must be maintained by a concerned and capable group of outdoor enthusiasts and animal lovers.'
         assert src.get_base_noun_phrases(text2) == ['A national park system', 'a concerned and capable group', 'outdoor enthusiasts', 'animal lovers']
 
+
+    def test_serve_visualization(self):
+        assert src.serve_visualization() == True
+
 if __name__ == '__main__':
     unittest.main()
