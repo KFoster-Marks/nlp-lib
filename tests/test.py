@@ -40,8 +40,9 @@ class AdvancedTestSuite(unittest.TestCase):
         assert src.get_base_noun_phrases(text2) == ['A national park system', 'a concerned and capable group', 'outdoor enthusiasts', 'animal lovers']
 
 
-    def test_serve_visualization(self):
-        assert src.serve_visualization() == True
+    def test_serve_dependency_viz(self):
+        text = u'Brown bears are eating salmon.'
+        assert src.serve_dependency_viz(text) == True
 
 if __name__ == '__main__':
     unittest.main()

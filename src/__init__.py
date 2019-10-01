@@ -4,4 +4,4 @@ from .tokenize import get_named_entities_metadata
 from .tokenize import get_named_entity_label_explanations
 from .tokenize import get_base_noun_phrases
 
-from .visualize import serve_visualization
+from .visualize import serve_dependency_viz
