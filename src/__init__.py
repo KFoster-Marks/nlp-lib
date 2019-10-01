@@ -5,3 +5,4 @@ from .tokenize import get_named_entity_label_explanations
 from .tokenize import get_base_noun_phrases
 
 from .visualize import serve_dependency_viz
+from .visualize import render_dependency_html
