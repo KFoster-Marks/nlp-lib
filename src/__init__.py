@@ -1,3 +1,5 @@
+from .lemmatize import get_lemmas
+
 from .tokenize import get_tokens
 from .tokenize import get_named_entities
 from .tokenize import get_named_entities_metadata

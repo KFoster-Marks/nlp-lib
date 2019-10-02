@@ -5,7 +5,7 @@ from .context import src
 import unittest
 
 class VisualizeTestSuite(unittest.TestCase):
-    """Advanced test cases."""
+    """Visualization test cases."""
 
     # def test_serve_dependency_viz(self):
     #     text = u'Brown bears are eating salmon.'
