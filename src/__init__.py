@@ -8,3 +8,5 @@ from .tokenize import get_base_noun_phrases
 
 from .visualize import serve_dependency_viz
 from .visualize import render_dependency_html
+
+from .vocab import check_is_stop_word
