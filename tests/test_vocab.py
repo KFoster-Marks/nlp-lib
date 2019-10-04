@@ -7,5 +7,11 @@ class VocabTestSuite(unittest.TestCase):
         text = 'the'
         assert src.check_is_stop_word(text) == True
 
+        text = 'a'
+        assert src.check_is_stop_word(text) == True
+
+        text = 'bear'
+        assert src.check_is_stop_word(text) == False
+
 if __name__ == '__main__':
     unittest.main()
