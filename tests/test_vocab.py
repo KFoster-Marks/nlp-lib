@@ -16,7 +16,7 @@ class VocabTestSuite(unittest.TestCase):
 
     def test_write_url_html_to_file(self):
         url = 'https://en.wikipedia.org/wiki/Linguistic_relativity'
-        file_name = 'tests/test_files/linguistic_relativity.txt'
+        file_name = 'tests/__test_files__/linguistic_relativity.txt'
         src.write_url_html_to_file(url, file_name)
         assert os.path.exists(file_name) == True
 
