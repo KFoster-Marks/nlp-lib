@@ -3,7 +3,10 @@ import urllib
 import html2text
 import os.path
 
+from spacy.matcher import PhraseMatcher
+
 nlp = spacy.load("en_core_web_sm")
+matcher = PhraseMatcher(nlp.vocab)
 
 def check_is_stop_word(text):
     return nlp.vocab[text].is_stop
@@ -21,6 +24,13 @@ def write_url_html_to_file(url, file_name):
     else:
         print('File already exists.')
 
-def get_text_match(text, phrase_list, start_context, end_context):
-    phrase_patterns = [nlp(text) for phrase in phrase_list]
-    print(phrase_patterns)
+def get_text_match(input_text, phrase_list, start_context, end_context):
+    doc = nlp(input_text)
+    phrase_patterns = [nlp(text) for text in phrase_list]
+    matcher.add('TestMatcher', None, *phrase_patterns)
+    found_matches = matcher(doc)
+    print(found_matches)
+
+    for match_id, start, end in found_matches:
+        span = doc[start-start_context:end+end_context]
+        print(match_id, span.text)

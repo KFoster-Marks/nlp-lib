@@ -25,11 +25,13 @@ class VocabTestSuite(unittest.TestCase):
         src.write_url_html_to_file(url, file_name)
         assert os.path.exists(file_name) == True
 
-        os.remove('tests/__test_files__/linguistic_relativity.txt')
-        os.remove('tests/__test_files__/financial_diet.txt')
+        # os.remove('tests/__test_files__/linguistic_relativity.txt')
+        # os.remove('tests/__test_files__/financial_diet.txt')
 
-    # def test_get_text_match(self):
-    #     text = ''
+    def test_get_text_match(self):
+        file = open('tests/__test_files__/financial_diet.txt', 'r')
+        text = file.read()
+        src.get_text_match(text, ['you\’re', 'your'], 5, 5)
 
 if __name__ == '__main__':
     unittest.main()
