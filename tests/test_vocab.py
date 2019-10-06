@@ -1,4 +1,5 @@
 from .context import src
+import os.path
 
 import unittest
 
@@ -15,7 +16,9 @@ class VocabTestSuite(unittest.TestCase):
 
     def test_write_url_html_to_file(self):
         url = 'https://en.wikipedia.org/wiki/Linguistic_relativity'
-        assert src.write_url_html_to_file(url, 'tests/test_files/linguistic_relativity.txt') == True
+        file_name = 'tests/test_files/linguistic_relativity.txt'
+        src.write_url_html_to_file(url, file_name)
+        assert os.path.exists(file_name) == True
 
     # def test_get_text_match(self):
     #     text = ''
