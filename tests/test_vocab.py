@@ -13,5 +13,12 @@ class VocabTestSuite(unittest.TestCase):
         text = 'bear'
         assert src.check_is_stop_word(text) == False
 
+    def test_write_url_html_to_file(self):
+        url = 'https://en.wikipedia.org/wiki/Linguistic_relativity'
+        assert src.write_url_html_to_file(url, 'tests/test_files/linguistic_relativity.txt') == True
+
+    # def test_get_text_match(self):
+    #     text = ''
+
 if __name__ == '__main__':
     unittest.main()

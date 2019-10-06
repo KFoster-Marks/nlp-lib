@@ -10,3 +10,4 @@ from .visualize import serve_dependency_viz
 from .visualize import render_dependency_html
 
 from .vocab import check_is_stop_word
+from .vocab import write_url_html_to_file

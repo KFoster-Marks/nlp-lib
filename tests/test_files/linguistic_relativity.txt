@@ -1,0 +1,1614 @@
+# Linguistic relativity
+
+From Wikipedia, the free encyclopedia
+
+Jump to navigation Jump to search
+
+Hypothesis that the structure of a language affects its speakers' worldview or
+cognition
+
+The hypothesis of **linguistic relativity** , part of
+[relativism](/wiki/Relativism "Relativism"), also known as the **Sapir–Whorf
+hypothesis** [/səˌpɪər ˈhwɔːrf/](/wiki/Help:IPA/English "Help:IPA/English"),
+or **Whorfianism** is a principle claiming that the structure of a
+[language](/wiki/Language "Language") affects its speakers' [world
+view](/wiki/World_view "World view") or [cognition](/wiki/Cognition
+"Cognition"), and thus people's perceptions are relative to their spoken
+language. During [World War II](/wiki/World_War_II "World War II") this
+claimed principle was used to advance nationalistic views by Nazi Germany,
+claiming their intellectual superiority over others[1], but has been
+reexamined by scholars since the late 1980s, aiming to avoid the context of
+racism, nationalism, or a hierarchy of intellectual capabilities which had
+previously surrounded the theory.[2]
+
+The principle is often defined in one of two versions: the _strong hypothesis_
+, which was held by some of the early linguists before World War II[3], and
+the _weak hypothesis_ , mostly held by some of the modern linguists.[3]
+
+  * The _strong_ version says that language _determines_ thought and that linguistic categories limit and determine cognitive categories.
+  * The _weak_ version says that linguistic categories and usage only _influence_ thought and decisions.
+
+The principle had been accepted and then abandoned by linguists during the
+early 20th century following the changing perceptions of [social acceptance
+for the other](/wiki/Acceptance "Acceptance") especially after World War
+II.[3] The origin of formulated arguments against the acceptance of linguistic
+relativity are attributed to [Noam Chomsky](/wiki/Noam_Chomsky "Noam
+Chomsky").[3]
+
+## Contents
+
+  * 1 History
+    * 1.1 Naming
+    * 1.2 Origins
+    * 1.3 Renewed examination
+  * 2 Forms
+    * 2.1 Linguistic determinism
+    * 2.2 Linguistic influence
+  * 3 History
+    * 3.1 German Romantic philosophers
+    * 3.2 Boas and Sapir
+    * 3.3 Benjamin Lee Whorf
+    * 3.4 Eric Lenneberg
+    * 3.5 Universalist period
+    * 3.6 Joshua Fishman's "Whorfianism of the third kind"
+    * 3.7 Cognitive linguistics
+      * 3.7.1 Parameters
+      * 3.7.2 _Rethinking Linguistic Relativity_
+    * 3.8 Refinements
+  * 4 Empirical research
+    * 4.1 Structure-centered
+    * 4.2 Domain-centered
+    * 4.3 Behavior-centered
+    * 4.4 Color terminology
+  * 5 Other domains
+    * 5.1 Science and philosophy
+    * 5.2 Therapy and self-development
+    * 5.3 Artificial languages
+    * 5.4 Programming languages
+    * 5.5 In popular culture
+  * 6 See also
+  * 7 Notes
+  * 8 References
+  * 9 Further reading
+
+##
+History[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=1
+"Edit section: History")]
+
+###
+Naming[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=2
+"Edit section: Naming")]
+
+The term "Sapir–Whorf hypothesis" is considered a misnomer by linguists for
+several reasons: [Edward Sapir](/wiki/Edward_Sapir "Edward Sapir") and
+[Benjamin Lee Whorf](/wiki/Benjamin_Lee_Whorf "Benjamin Lee Whorf") never co-
+authored any works, and never stated their ideas in terms of a hypothesis. The
+distinction between a weak and a strong version of this hypothesis is also a
+later invention; Sapir and Whorf never set up such a dichotomy, although often
+in their writings and in their views of this relativity principle are phrased
+in stronger or weaker terms.[4][5]
+
+###
+Origins[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=3
+"Edit section: Origins")]
+
+The idea was first clearly expressed by 19th-century thinkers, such as
+[Wilhelm von Humboldt](/wiki/Wilhelm_von_Humboldt "Wilhelm von Humboldt"), who
+saw language as the expression of the spirit of a nation. Members of the early
+20th-century school of American anthropology headed by [Franz
+Boas](/wiki/Franz_Boas "Franz Boas") and Edward Sapir also embraced forms of
+the idea to a certain extent, including in a 1928 meeting of the Linguistic
+Society of America,[6] but Sapir in particular, wrote more often against than
+in favor of anything like [linguistic
+determinism](/wiki/Linguistic_determinism "Linguistic determinism"). Sapir's
+student, Benjamin Lee Whorf, came to be seen as the primary proponent as a
+result of his published observations of how he perceived linguistic
+differences to have consequences in human cognition and behavior. [Harry
+Hoijer](/wiki/Harry_Hoijer "Harry Hoijer"), another of Sapir's students,
+introduced the term "Sapir–Whorf hypothesis",[7] even though the two scholars
+never formally advanced any such hypothesis.[8] A strong version of relativist
+theory was developed from the late 1920s by the German linguist [Leo
+Weisgerber](/wiki/Leo_Weisgerber "Leo Weisgerber"). Whorf's principle of
+linguistic relativity was reformulated as a testable hypothesis by [Roger
+Brown](/wiki/Roger_Brown_\(psychologist\) "Roger Brown \(psychologist\)") and
+[Eric Lenneberg](/wiki/Eric_Lenneberg "Eric Lenneberg") who conducted
+experiments designed to find out whether [color
+perception](/wiki/Color_perception "Color perception") varies between speakers
+of languages that classified colors differently. As the study of the universal
+nature of human language and cognition came into focus in the 1960s the idea
+of linguistic relativity fell out of favor among linguists. A 1969 study by
+[Brent Berlin](/wiki/Brent_Berlin "Brent Berlin") and [Paul
+Kay](/wiki/Paul_Kay "Paul Kay") demonstrated the existence of universal
+semantic constraints in the field of colour terminology which were widely seen
+to discredit the existence of linguistic relativity in this domain, although
+this conclusion has been disputed by relativist researchers.
+
+### Renewed
+examination[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=4
+"Edit section: Renewed examination")]
+
+From the late 1980s, a new school of linguistic relativity scholars has
+examined the effects of differences in linguistic categorization on cognition,
+finding broad support for non-deterministic versions of the hypothesis in
+experimental contexts.[9][10] Some effects of linguistic relativity have been
+shown in several semantic domains, although they are generally weak.
+Currently, a balanced view of linguistic relativity is espoused by most
+linguists holding that language influences certain kinds of cognitive
+processes in non-trivial ways, but that other processes are better seen as
+arising from [connectionist](/wiki/Connectionism "Connectionism") factors.
+Research is focused on exploring the ways and extent to which language
+influences thought.[9] The principle of linguistic relativity and the relation
+between language and thought has also received attention in varying academic
+fields from [philosophy](/wiki/Philosophy "Philosophy") to
+[psychology](/wiki/Psychology "Psychology") and
+[anthropology](/wiki/Anthropology "Anthropology"), and it has also inspired
+and coloured works of fiction and the invention of [constructed
+languages](/wiki/Constructed_language "Constructed language").
+
+## Forms[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=5
+"Edit section: Forms")]
+
+### Linguistic
+determinism[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=6
+"Edit section: Linguistic determinism")]
+
+Main article: [Linguistic determinism](/wiki/Linguistic_determinism
+"Linguistic determinism")
+
+The strongest form of the theory is linguistic determinism, which holds that
+language entirely determines the range of cognitive processes. The hypothesis
+of linguistic determinism is now generally agreed to be false.[11]
+
+### Linguistic
+influence[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=7
+"Edit section: Linguistic influence")]
+
+This is the weaker form, proposing that language provides constraints in some
+areas of cognition, but that it is by no means determinative. Research on
+weaker forms has produced positive [empirical
+evidence](/wiki/Empirical_evidence "Empirical evidence") for a
+relationship.[11]
+
+##
+History[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=8
+"Edit section: History")]
+
+The idea that language and thought are intertwined is ancient.
+[Plato](/wiki/Plato "Plato") argued against [sophist](/wiki/Sophist "Sophist")
+thinkers such as [Gorgias of Leontini](/wiki/Gorgias_of_Leontini "Gorgias of
+Leontini"), who held that the physical world cannot be experienced except
+through language; this made the question of truth dependent on aesthetic
+preferences or functional consequences. Plato held instead that the world
+consisted of eternal ideas and that language should reflect these ideas as
+accurately as possible.[12] Following Plato, [St.
+Augustine](/wiki/St._Augustine "St. Augustine"), for example, held the view
+that language was merely labels applied to already existing concepts. This
+view remained prevalent throughout the [Middle Ages](/wiki/Middle_Ages "Middle
+Ages").[13] [Roger Bacon](/wiki/Roger_Bacon "Roger Bacon") held the opinion
+that language was but a veil covering up eternal truths, hiding them from
+human experience. For [Immanuel Kant](/wiki/Immanuel_Kant "Immanuel Kant"),
+language was but one of several tools used by humans to experience the world.
+
+### German Romantic
+philosophers[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=9
+"Edit section: German Romantic philosophers")]
+
+In the late 18th and early 19th centuries, the idea of the existence of
+different national characters, or " _Volksgeister_ ", of different ethnic
+groups was the moving force behind the German romantics school and the
+beginning ideologies of ethnic nationalism.
+
+Although himself a Swede, [Emanuel Swedenborg](/wiki/Emanuel_Swedenborg
+"Emanuel Swedenborg") inspired several of the German Romantics. As early as
+1749, he alludes to something along the lines of linguistic relativity in
+commenting on a passage in the table of nations in the book of Genesis:
+
+> "Everyone according to his language, according to their families, as to
+> their nations."[Genesis 10:5] This signifies that these were according to
+> the genius of each; "according to their language," according to the opinion
+> of each.... "Language," in its inner meaning, signifies opinion, thus
+> principles and persuasions. This is because there is a correspondence of the
+> language with the intellectual part of man, or with his thought, like that
+> of an effect with its cause.[14]
+
+In 1771 he spelled this out more explicitly:
+
+> There is a common genius prevailing among those who are subject to one king,
+> and who consequently are under one constitutional law. Germany is divided
+> into more governments than the neighboring kingdoms.... However, a common
+> genius prevails everywhere among people speaking the same language.[15]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/af/WilhelmvonHumboldt.jpg/220px-
+WilhelmvonHumboldt.jpg)](/wiki/File:WilhelmvonHumboldt.jpg)
+
+[](/wiki/File:WilhelmvonHumboldt.jpg "Enlarge")
+
+[Wilhelm von Humboldt](/wiki/Wilhelm_von_Humboldt "Wilhelm von Humboldt")
+
+[Johann Georg Hamann](/wiki/Johann_Georg_Hamann "Johann Georg Hamann") is
+often suggested to be the first among the actual German Romantics to speak of
+the concept of "the genius of a language."[16][17] In his "Essay Concerning an
+Academic Question," Hamann suggests that a people's language affects their
+worldview:
+
+> The lineaments of their language will thus correspond to the direction of
+> their mentality.[18]
+
+In 1820, [Wilhelm von Humboldt](/wiki/Wilhelm_von_Humboldt "Wilhelm von
+Humboldt") connected the study of language to the national romanticist program
+by proposing the view that language is the fabric of thought. Thoughts are
+produced as a kind of internal dialog using the same grammar as the thinker's
+native language.[19] This view was part of a larger picture in which the world
+view of an ethnic nation, their "[Weltanschauung](/wiki/World_view "World
+view")", was seen as being faithfully reflected in the grammar of their
+language. Von Humboldt argued that languages with an
+[inflectional](/wiki/Inflection "Inflection") [morphological
+type](/wiki/Morphological_typology "Morphological typology"), such as German,
+English and the other [Indo-European languages](/wiki/Indo-European_languages
+"Indo-European languages"), were the most perfect languages and that
+accordingly this explained the dominance of their speakers over the speakers
+of less perfect languages. Wilhelm von Humboldt declared in 1820:
+
+> The diversity of languages is not a diversity of signs and sounds but a
+> diversity of views of the world.[19]
+
+### Boas and
+Sapir[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=10
+"Edit section: Boas and Sapir")]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/62/FranzBoas.jpg/220px-
+FranzBoas.jpg)](/wiki/File:FranzBoas.jpg)
+
+[](/wiki/File:FranzBoas.jpg "Enlarge")
+
+[Franz Boas](/wiki/Franz_Boas "Franz Boas")
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Edward_Sapir.jpg/220px-
+Edward_Sapir.jpg)](/wiki/File:Edward_Sapir.jpg)
+
+[](/wiki/File:Edward_Sapir.jpg "Enlarge")
+
+[Edward Sapir](/wiki/Edward_Sapir "Edward Sapir")
+
+The idea that some languages are superior to others and that lesser languages
+maintained their speakers in intellectual poverty was widespread in the early
+20th century[20]. American linguist [William Dwight
+Whitney](/wiki/William_Dwight_Whitney "William Dwight Whitney"), for example,
+actively strove to eradicate [Native American
+languages](/wiki/Indigenous_languages_of_the_Americas "Indigenous languages of
+the Americas"), arguing that their speakers were savages and would be better
+off learning English and adopting a "civilized" way of life.[21] The first
+anthropologist and linguist to challenge this view was [Franz
+Boas](/wiki/Franz_Boas "Franz Boas").[22] While undertaking geographical
+research in northern Canada he became fascinated with the [Inuit](/wiki/Inuit
+"Inuit") people and decided to become an [ethnographer](/wiki/Ethnography
+"Ethnography"). Boas stressed the equal worth of all cultures and languages,
+that there was no such thing as a primitive language and that all languages
+were capable of expressing the same content, albeit by widely differing means.
+Boas saw language as an inseparable part of culture and he was among the first
+to require of ethnographers to learn the native language of the culture under
+study and to document verbal culture such as [myths](/wiki/Myth "Myth") and
+legends in the original language.
+
+Boas:
+
+> It does not seem likely [...] that there is any direct relation between the
+> culture of a tribe and the language they speak, except in so far as the form
+> of the language will be moulded by the state of the culture, but not in so
+> far as a certain state of the culture is conditioned by the morphological
+> traits of the language."[23]
+
+Boas' student Edward Sapir reached back to the Humboldtian idea that languages
+contained the key to understanding the world views of peoples. He espoused the
+viewpoint that because of the differences in the grammatical systems of
+languages no two languages were similar enough to allow for perfect cross-
+translation. Sapir also thought because language represented reality
+differently, it followed that the speakers of different languages would
+perceive reality differently.
+
+Sapir:
+
+> No two languages are ever sufficiently similar to be considered as
+> representing the same social reality. The worlds in which different
+> societies live are distinct worlds, not merely the same world with different
+> labels attached.[24]
+
+On the other hand, Sapir explicitly rejected strong [linguistic
+determinism](/wiki/Linguistic_determinism "Linguistic determinism") by
+stating, "It would be naïve to imagine that any analysis of experience is
+dependent on pattern expressed in language."[25]
+
+Sapir was explicit that the connections between language and culture were
+neither thoroughgoing nor particularly deep, if they existed at all:
+
+> It is easy to show that language and culture are not intrinsically
+> associated. Totally unrelated languages share in one culture; closely
+> related languages—even a single language—belong to distinct culture spheres.
+> There are many excellent examples in Aboriginal America. The Athabaskan
+> languages form as clearly unified, as structurally specialized, a group as
+> any that I know of. The speakers of these languages belong to four distinct
+> culture areas... The cultural adaptability of the Athabaskan-speaking
+> peoples is in the strangest contrast to the inaccessibility to foreign
+> influences of the languages themselves.[26]
+
+Sapir offered similar observations about speakers of so-called "world" or
+["modern" languages](/wiki/Modern_language "Modern language"), noting,
+"possession of a common language is still and will continue to be a smoother
+of the way to a mutual understanding between England and America, but it is
+very clear that other factors, some of them rapidly cumulative, are working
+powerfully to counteract this leveling influence. A common language cannot
+indefinitely set the seal on a common culture when the geographical, physical,
+and economics determinants of the culture are no longer the same throughout
+the area."[27]
+
+While Sapir never made a point of studying directly how languages affected
+thought, some notion of (probably "weak") linguistic relativity underlay his
+basic understanding of language, and would be taken up by Whorf.
+
+Drawing on influences such as Humboldt and [Friedrich
+Nietzsche](/wiki/Friedrich_Nietzsche "Friedrich Nietzsche"), some European
+thinkers developed ideas similar to those of Sapir and Whorf, generally
+working in isolation from each other. Prominent in Germany from the late 1920s
+through into the 1960s were the strongly relativist theories of [Leo
+Weisgerber](/wiki/Leo_Weisgerber "Leo Weisgerber") and his key concept of a
+'linguistic inter-world', mediating between external reality and the forms of
+a given language, in ways peculiar to that language.[28] Russian psychologist
+[Lev Vygotsky](/wiki/Lev_Vygotsky "Lev Vygotsky") read Sapir's work and
+experimentally studied the ways in which the development of concepts in
+children was influenced by structures given in language. His 1934 work "
+_Thought and Language_ "[29] has been compared to Whorf's and taken as
+mutually supportive evidence of language's influence on cognition.[30] Drawing
+on Nietzsche's ideas of perspectivism [Alfred
+Korzybski](/wiki/Alfred_Korzybski "Alfred Korzybski") developed the theory of
+[general semantics](/wiki/General_semantics "General semantics") that has been
+compared to Whorf's notions of linguistic relativity.[31] Though influential
+in their own right, this work has not been influential in the debate on
+linguistic relativity, which has tended to center on the American paradigm
+exemplified by Sapir and Whorf.
+
+### Benjamin Lee
+Whorf[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=11
+"Edit section: Benjamin Lee Whorf")]
+
+Main article: [Benjamin Lee Whorf](/wiki/Benjamin_Lee_Whorf "Benjamin Lee
+Whorf")
+
+More than any linguist, Benjamin Lee Whorf has become associated with what he
+called the "linguistic relativity principle".[32] Studying [Native
+American](/wiki/Indigenous_peoples_of_the_Americas "Indigenous peoples of the
+Americas") languages, he attempted to account for the ways in which
+grammatical systems and language use differences affected perception. Whorf
+also examined how a scientific account of the world differed from a religious
+account, which led him to study the original languages of religious scripture
+and to write several anti-[evolutionist](/wiki/Evolution "Evolution")
+pamphlets.[33] Whorf's opinions regarding the nature of the relation between
+language and thought remain under contention. Critics such as Lenneberg,
+[Black](/wiki/Max_Black "Max Black") and [Pinker](/wiki/Steven_Pinker "Steven
+Pinker") attribute to Whorf a strong linguistic determinism, while
+[Lucy](/wiki/John_A._Lucy "John A. Lucy"),
+[Silverstein](/wiki/Michael_Silverstein "Michael Silverstein") and
+[Levinson](/wiki/Stephen_C._Levinson "Stephen C. Levinson") point to Whorf's
+explicit rejections of determinism, and where he contends that translation and
+commensuration is possible.
+
+Although Whorf lacked an advanced degree in linguistics, his reputation
+reflects his acquired competence. His peers at [Yale
+University](/wiki/Yale_University "Yale University") considered the 'amateur'
+Whorf to be the best man available to take over Sapir's graduate seminar in
+Native American linguistics while Sapir was on sabbatical in 1937–38.[34] He
+was highly regarded by authorities such as Boas, Sapir,
+[Bloomfield](/wiki/Leonard_Bloomfield "Leonard Bloomfield") and
+[Tozzer](/wiki/Alfred_M._Tozzer "Alfred M. Tozzer"). Indeed,
+[Lucy](/wiki/John_A._Lucy "John A. Lucy") wrote, "despite his 'amateur'
+status, Whorf's work in linguistics was and still is recognized as being of
+superb professional quality by linguists".[35]
+
+Detractors such as Lenneberg, [Chomsky](/wiki/Noam_Chomsky "Noam Chomsky") and
+[Pinker](/wiki/Steven_Pinker "Steven Pinker") criticized him for insufficient
+clarity in his description of how language influences thought, and for not
+proving his conjectures. Most of his arguments were in the form of anecdotes
+and speculations that served as attempts to show how 'exotic' grammatical
+traits were connected to what were apparently equally exotic worlds of
+thought. In Whorf's words:
+
+> We dissect nature along lines laid down by our native language. The
+> categories and types that we isolate from the world of phenomena we do not
+> find there because they stare every observer in the face; on the contrary,
+> the world is presented in a kaleidoscope flux of impressions which has to be
+> organized by our minds—and this means largely by the linguistic systems of
+> our minds. We cut nature up, organize it into concepts, and ascribe
+> significances as we do, largely because we are parties to an agreement to
+> organize it in this way—an agreement that holds throughout our speech
+> community and is codified in the patterns of our language [...] all
+> observers are not led by the same physical evidence to the same picture of
+> the universe, unless their linguistic backgrounds are similar, or can in
+> some way be calibrated.[36]
+
+[![](//upload.wikimedia.org/wikipedia/en/4/45/Whorf_Shawnee_Example.png)](/wiki/File:Whorf_Shawnee_Example.png)
+
+[](/wiki/File:Whorf_Shawnee_Example.png "Enlarge")
+
+Whorf's illustration of the difference between the English and Shawnee gestalt
+construction of cleaning a gun with a ramrod. From the article "Science and
+Linguistics", originally published in the _MIT Technology Review_ , 1940.
+
+Among Whorf's best-known examples of linguistic relativity are instances where
+an indigenous language has several terms for a concept that is only described
+with one word in European languages (Whorf used the acronym SAE "[Standard
+Average European](/wiki/Standard_Average_European "Standard Average
+European")" to allude to the rather similar grammatical structures of the
+well-studied European languages in contrast to the greater diversity of less-
+studied languages).
+
+One of Whorf's examples was the supposedly large number of words for ['snow'
+in the Inuit language](/wiki/Eskimo_words_for_snow "Eskimo words for snow"),
+an example which later was contested as a misrepresentation.[37]
+
+Another is the [Hopi language](/wiki/Hopi_language "Hopi language")'s words
+for water, one indicating drinking water in a container and another indicating
+a natural body of water. These examples of [polysemy](/wiki/Polysemy
+"Polysemy") served the double purpose of showing that indigenous languages
+sometimes made more fine grained semantic distinctions than European languages
+and that direct translation between two languages, even of seemingly basic
+concepts such as snow or water, is not always possible.
+
+Another example is from Whorf's experience as a chemical engineer working for
+an insurance company as a fire inspector.[37] While inspecting a chemical
+plant he observed that the plant had two storage rooms for gasoline barrels,
+one for the full barrels and one for the empty ones. He further noticed that
+while no employees smoked cigarettes in the room for full barrels, no-one
+minded smoking in the room with empty barrels, although this was potentially
+much more dangerous because of the highly flammable vapors still in the
+barrels. He concluded that the use of the word _empty_ in connection to the
+barrels had led the workers to unconsciously regard them as harmless, although
+consciously they were probably aware of the risk of explosion. This example
+was later criticized by Lenneberg[38] as not actually demonstrating causality
+between the use of the word _empty_ and the action of smoking, but instead was
+an example of [circular reasoning](/wiki/Circular_reasoning "Circular
+reasoning"). Pinker in _[The Language Instinct](/wiki/The_Language_Instinct
+"The Language Instinct")_ ridiculed this example, claiming that this was a
+failing of human insight rather than language.
+
+Whorf's most elaborate argument for linguistic relativity regarded what he
+believed to be a fundamental difference in the understanding of [time as a
+conceptual category among the Hopi](/wiki/Hopi_time_controversy "Hopi time
+controversy").[33] He argued that in contrast to English and other [SAE
+languages](/wiki/Standard_Average_European "Standard Average European"), Hopi
+does not treat the flow of time as a sequence of distinct, countable
+instances, like "three days" or "five years," but rather as a single process
+and that consequently it has no nouns referring to units of time as SAE
+speakers understand them. He proposed that this view of time was fundamental
+to [Hopi](/wiki/Hopi "Hopi") culture and explained certain Hopi behavioral
+patterns. Malotki later claimed that he had found no evidence of Whorf's
+claims in 1980's era speakers, nor in historical documents dating back to the
+arrival of Europeans. Malotki used evidence from archaeological data,
+calendars, historical documents, modern speech and concluded that there was no
+evidence that Hopi conceptualize time in the way Whorf suggested. Universalist
+scholars such as Pinker often see Malotki's study as a final refutation of
+Whorf's claim about Hopi, whereas relativist scholars such as
+[Lucy](/wiki/John_A_Lucy "John A Lucy") and Penny Lee criticized Malotki's
+study for mischaracterizing Whorf's claims and for forcing Hopi grammar into a
+model of analysis that doesn't fit the data.[39]
+
+Whorf died in 1941 at age 44, leaving multiple unpublished papers. His line of
+thought was continued by linguists and anthropologists such as Hoijer and
+[Lee](/wiki/Dorothy_D._Lee "Dorothy D. Lee") who both continued investigations
+into the effect of language on habitual thought, and
+[Trager](/wiki/George_L._Trager "George L. Trager"), who prepared a number of
+Whorf's papers for posthumous publishing. The most important event for the
+dissemination of Whorf's ideas to a larger public was the publication in 1956
+of his major writings on the topic of linguistic relativity in a single volume
+titled _Language, Thought and Reality_.
+
+### Eric
+Lenneberg[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=12
+"Edit section: Eric Lenneberg")]
+
+In 1953, [Eric Lenneberg](/wiki/Eric_Lenneberg "Eric Lenneberg") criticised
+Whorf's examples from an objectivist view of language holding that languages
+are principally meant to represent events in the real world and that even
+though languages express these ideas in various ways, the meanings of such
+expressions and therefore the thoughts of the speaker are equivalent. He
+argued that Whorf's English descriptions of a Hopi speaker's view of time were
+in fact translations of the Hopi concept into English, therefore disproving
+linguistic relativity. However Whorf was concerned with how the habitual _use_
+of language influences habitual behavior, rather than translatability. Whorf's
+point was that while English speakers may be able to _understand_ how a Hopi
+speaker thinks, they do not _think_ in that way.[40]
+
+Lenneberg's main criticism of Whorf's works was that he never showed the
+connection between a linguistic phenomenon and a mental phenomenon. With
+Brown, Lenneberg proposed that proving such a connection required directly
+matching linguistic phenomena with behavior. They assessed linguistic
+relativity experimentally and published their findings in 1954.
+
+Since neither Sapir nor Whorf had ever stated a formal hypothesis, Brown and
+Lenneberg formulated their own. Their two tenets were (i) "the world is
+differently experienced and conceived in different linguistic communities" and
+(ii) "language causes a particular cognitive structure".[41] Brown later
+developed them into the so-called "weak" and "strong" formulation:
+
+>   * Structural differences between language systems will, in general, be
+> paralleled by nonlinguistic cognitive differences, of an unspecified sort,
+> in the native speakers of the language.
+>   * The structure of anyone's native language strongly influences or fully
+> determines the worldview he will acquire as he learns the language.[42]
+>
+
+Brown's formulations became widely known and were retrospectively attributed
+to Whorf and Sapir although the second formulation, verging on linguistic
+determinism, was never advanced by either of them.
+
+Since Brown and Lenneberg believed that the objective reality denoted by
+language was the same for speakers of all languages, they decided to test how
+different languages codified the same message differently and whether
+differences in codification could be proven to affect behavior.
+
+They designed experiments involving the codification of colors. In their first
+experiment, they investigated whether it was easier for speakers of English to
+remember color shades for which they had a specific name than to remember
+colors that were not as easily definable by words. This allowed them to
+compare the linguistic categorization directly to a non-linguistic task. In a
+later experiment, speakers of two languages that categorize colors differently
+([English](/wiki/English_language "English language") and
+[Zuni](/wiki/Zuni_language "Zuni language")) were asked to recognize colors.
+In this way, it could be determined whether the differing color categories of
+the two speakers would determine their ability to recognize nuances within
+color categories. Brown and Lenneberg found that Zuñi speakers who [classify
+green and blue together](/wiki/Distinguishing_blue_from_green_in_language
+"Distinguishing blue from green in language") as a single color did have
+trouble recognizing and remembering nuances within the green/blue
+category.[43] Brown and Lenneberg's study began a tradition of investigation
+of linguistic relativity through color terminology.
+
+### Universalist
+period[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=13
+"Edit section: Universalist period")]
+
+Main articles: [Universalism](/wiki/Universalism "Universalism") and
+[Universalism and relativism of color
+terminology](/wiki/Universalism_and_relativism_of_color_terminology
+"Universalism and relativism of color terminology")
+
+Lenneberg was also one of the first cognitive scientists to begin development
+of the Universalist theory of language that was formulated by Chomsky in the
+form of [Universal Grammar](/wiki/Universal_Grammar "Universal Grammar"),
+effectively arguing that all languages share the same underlying structure.
+The Chomskyan school also holds the belief that linguistic structures are
+largely innate and that what are perceived as differences between specific
+languages are surface phenomena that do not affect the brain's universal
+cognitive processes. This theory became the dominant paradigm in American
+linguistics from the 1960s through the 1980s, while linguistic relativity
+became the object of ridicule.[44]
+
+Examples of universalist influence in the 1960s are the studies by
+[Berlin](/wiki/Brent_Berlin "Brent Berlin") and [Kay](/wiki/Paul_Kay "Paul
+Kay") who continued Lenneberg's color research. They studied color terminology
+formation and showed clear universal trends in color naming. For example, they
+found that even though languages have different color terminologies, they
+generally recognize certain hues as more focal than others. They showed that
+in languages with few color terms, it is predictable from the number of terms
+which hues are chosen as focal colors, for example, languages with only three
+color terms always have the focal colors black, white and red.[45] The fact
+that what had been believed to be random differences between color naming in
+different languages could be shown to follow universal patterns was seen as a
+powerful argument against linguistic relativity.[46] Berlin and Kay's research
+has since been criticized by relativists such as Lucy, who argued that Berlin
+and Kay's conclusions were skewed by their insistence that color terms encode
+only color information.[47] This, Lucy argues, made them blind to the
+instances in which color terms provided other information that might be
+considered examples of linguistic relativity.
+
+Other universalist researchers dedicated themselves to dispelling other
+aspects of linguistic relativity, often attacking Whorf's specific points and
+examples. For example, Malotki's monumental study of time expressions in Hopi
+presented many examples that challenged Whorf's "timeless" interpretation of
+Hopi language and culture,[48] but seemingly failed to address linguistic
+relativist argument actually posed by Whorf (i.e. that the understanding of
+time by native Hopi speakers differed from that of speakers of European
+languages due to the differences in the organization and construction of their
+respective languages; Whorf never claimed that Hopi speakers lacked any
+concept of time).[49] Malotki himself acknowledges that the conceptualizations
+are different, but because he ignores Whorf's use of scare quotes around the
+word "time" and the qualifier "what we call," takes Whorf to be arguing that
+the Hopi have no concept of time at all.[50][51][52]
+
+Today many followers of the universalist school of thought still oppose
+linguistic relativity. For example, Pinker argues in _The Language Instinct_
+that thought is independent of language, that language is itself meaningless
+in any fundamental way to human thought, and that human beings do not even
+think in "natural" language, i.e. any language that we actually communicate
+in; rather, we think in a meta-language, preceding any natural language,
+called "mentalese." Pinker attacks what he calls "Whorf's radical position,"
+declaring, "the more you examine Whorf's arguments, the less sense they
+make."[53]
+
+Pinker and other universalists have been accused by relativists of
+misrepresenting Whorf's views and arguing against
+[strawmen](/wiki/Strawman_fallacy "Strawman fallacy").[54][47][40]
+
+### Joshua Fishman's "Whorfianism of the third
+kind"[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=14
+"Edit section: Joshua Fishman's "Whorfianism of the third kind"")]
+
+[Joshua Fishman](/wiki/Joshua_Aaron_Fishman "Joshua Aaron Fishman") argued
+that Whorf's true position was largely overlooked. In 1978, he suggested that
+Whorf was a "neo-[Herderian](/wiki/Johann_Gottfried_Herder "Johann Gottfried
+Herder") champion"[55] and in 1982, he proposed "Whorfianism of the third
+kind" in an attempt to refocus linguists' attention on what he claimed was
+Whorf's real interest, namely the intrinsic value of "little peoples" and
+"little languages".[56] Whorf had criticized [Ogden](/wiki/Charles_Kay_Ogden
+"Charles Kay Ogden")'s [Basic English](/wiki/Basic_English "Basic English")
+thus:
+
+> But to restrict thinking to the patterns merely of English […] is to lose a
+> power of thought which, once lost, can never be regained. It is the
+> 'plainest' English which contains the greatest number of unconscious
+> assumptions about nature. […] We handle even our plain English with much
+> greater effect if we direct it from the vantage point of a multilingual
+> awareness.[57]
+
+Where Brown's weak version of the linguistic relativity hypothesis proposes
+that language _influences_ thought and the strong version that language
+_determines_ thought, Fishman's 'Whorfianism of the third kind' proposes that
+language _is a key to culture_.
+
+### Cognitive
+linguistics[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=15
+"Edit section: Cognitive linguistics")]
+
+In the late 1980s and early 1990s, advances in [cognitive
+psychology](/wiki/Cognitive_psychology "Cognitive psychology") and [cognitive
+linguistics](/wiki/Cognitive_linguistics "Cognitive linguistics") renewed
+interest in the Sapir–Whorf hypothesis.[58] One of those who adopted a more
+Whorfian approach was [George Lakoff](/wiki/George_Lakoff "George Lakoff"). He
+argued that language is often used metaphorically and that languages use
+different [cultural metaphors](/wiki/Conceptual_metaphor "Conceptual
+metaphor") that reveal something about how speakers of that language think.
+For example, English employs conceptual metaphors likening time with money, so
+that time can be saved and spent and invested, whereas other languages do not
+talk about time in that way. Other such metaphors are common to many languages
+because they are based on general human experience, for example, metaphors
+likening _up_ with _good_ and _bad_ with _down_. Lakoff also argued that
+metaphor plays an important part in political debates such as the "right to
+life" or the "right to choose"; or "illegal aliens" or "undocumented workers".
+
+####
+Parameters[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=16
+"Edit section: Parameters")]
+
+In his book _Women, Fire and Dangerous things: What categories reveal about
+the mind,_[40] Lakoff reappraised linguistic relativity and especially Whorf's
+views about how linguistic categorization reflects and/or influences mental
+categories. He concluded that the debate had been confused. He described four
+parameters on which researchers differed in their opinions about what
+constitutes linguistic relativity:
+
+  * The degree and depth of linguistic relativity. Perhaps a few examples of superficial differences in language and associated behavior are enough to demonstrate the existence of linguistic relativity. Alternatively, perhaps only deep differences that permeate the linguistic and cultural system suffice.
+  * Whether conceptual systems are absolute or whether they can evolve
+  * Whether the similarity criterion is translatability or the use of linguistic expressions
+  * Whether the focus of linguistic relativity is in language or in the brain
+
+Lakoff concluded that many of Whorf's critics had criticized him using novel
+definitions of linguistic relativity, rendering their criticisms moot.
+
+#### _Rethinking Linguistic Relativity_
+[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=17 "Edit
+section: Rethinking Linguistic Relativity")]
+
+The publication of the 1996 anthology _Rethinking Linguistic Relativity_
+edited by [Gumperz](/wiki/John_J._Gumperz "John J. Gumperz") and
+[Levinson](/wiki/Stephen_C._Levinson "Stephen C. Levinson") began a new period
+of linguistic relativity studies that focused on cognitive and social aspects.
+The book included studies on the linguistic relativity and universalist
+traditions. Levinson documented significant linguistic relativity effects in
+the linguistic conceptualization of spatial categories between languages. For
+example, men speaking the Guugu Yimithirr language in
+[Queensland](/wiki/Queensland "Queensland") gave accurate navigation
+instructions using a compass-like system of north, south, east and west, along
+with a hand gesture pointing to the starting direction.[59]
+
+Separate studies by [Bowerman](/wiki/Melissa_Bowerman "Melissa Bowerman") and
+[Slobin](/wiki/Dan_Slobin "Dan Slobin") treated the role of language in
+cognitive processes. Bowerman showed that certain cognitive processes did not
+use language to any significant extent and therefore could not be subject to
+linguistic relativity. Slobin described another kind of cognitive process that
+he named "thinking for speaking" – the kind of process in which perceptional
+data and other kinds of prelinguistic cognition are translated into linguistic
+terms for communication. These, Slobin argues, are the kinds of cognitive
+process that are at the root of linguistic relativity.
+
+###
+Refinements[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=18
+"Edit section: Refinements")]
+
+Researchers such as [Boroditsky](/wiki/Lera_Boroditsky "Lera Boroditsky"),
+Lucy and Levinson believe that language influences thought in more limited
+ways than the broadest early claims. Researchers examine the interface between
+thought (or cognition), language and culture and describe the relevant
+influences. They use experimental data to back up their conclusions.[60][61]
+Kay ultimately concluded that "[the] Whorf hypothesis is supported in the
+right visual field but not the left".[62] His findings show that accounting
+for [brain lateralization](/wiki/Brain_lateralization "Brain lateralization")
+offers another perspective.
+
+[Psycholinguistic](/wiki/Psycholinguistics "Psycholinguistics") studies
+explored motion perception, emotion perception, object representation and
+memory.[63][64][65][66] The gold standard of psycholinguistic studies on
+linguistic relativity is now finding non-linguistic cognitive differences in
+speakers of different languages (thus rendering inapplicable Pinker's
+criticism that linguistic relativity is "circular").
+
+Recent work with [bilingual](/wiki/Bilingual "Bilingual") speakers attempts to
+distinguish the effects of language from those of culture on bilingual
+cognition including perceptions of time, space, motion, colors and
+emotion.[67] Researchers described differences between bilinguals and
+[monolinguals](/wiki/Monolingual "Monolingual") in perception of color,[68]
+representations of time[69] and other elements of cognition.
+
+## Empirical
+research[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=19
+"Edit section: Empirical research")]
+
+Lucy identified three main strands of research into linguistic relativity.[70]
+
+### Structure-
+centered[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=20
+"Edit section: Structure-centered")]
+
+The "structure-centered" approach starts with a language's structural
+peculiarity and examines its possible ramifications for thought and behavior.
+The defining example is Whorf's observation of discrepancies between the
+grammar of time expressions in Hopi and English. More recent research in this
+vein is Lucy's research describing how usage of the categories of grammatical
+number and of numeral classifiers in the [Mayan
+language](/wiki/Mayan_languages "Mayan languages")
+[Yucatec](/wiki/Yucatec_Maya "Yucatec Maya") result in Mayan speakers
+classifying objects according to material rather than to shape as preferred by
+English speakers.[71]
+
+### Domain-
+centered[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=21
+"Edit section: Domain-centered")]
+
+The "domain-centered" approach selects a semantic domain and compares it
+across linguistic and cultural groups. It centered on color terminology,
+although this domain is acknowledged to be sub-optimal, because color
+perception, unlike other semantic domains, is hardwired into the neural system
+and as such is subject to more universal restrictions than other semantic
+domains.
+
+Space is another semantic domain that has proven fruitful for linguistic
+relativity studies.[72] Spatial categories vary greatly across languages.
+Speakers rely on the linguistic conceptualization of space in performing many
+ordinary tasks. Levinson and others reported three basic spatial
+categorizations. While many languages use combinations of them, some languages
+exhibit only one type and related behaviors. For example,
+[Yimithirr](/wiki/Guugu_Yimithirr_language "Guugu Yimithirr language") only
+uses absolute directions when describing spatial relations — the position of
+everything is described by using the cardinal directions. Speakers define a
+location as "north of the house", while an English speaker may use relative
+positions, saying "in front of the house" or "to the left of the house".[73]
+
+### Behavior-
+centered[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=22
+"Edit section: Behavior-centered")]
+
+The "behavior centered" approach starts by comparing behavior across
+linguistic groups and then searches for causes for that behavior in the
+linguistic system. Whorf attributed the occurrence of fires at a chemical
+plant to the workers' use of the word 'empty' to describe the barrels
+containing only explosive vapors. Bloom noticed that speakers of Chinese had
+unexpected difficulties answering counter-factual questions posed to them in a
+questionnaire. He concluded that this was related to the way in which counter-
+factuality is marked grammatically in Chinese. Other researchers attributed
+this result to Bloom's flawed translations.[74] Strømnes examined why Finnish
+factories had a higher occurrence of work related accidents than similar
+Swedish ones. He concluded that cognitive differences between the grammatical
+usage of Swedish [prepositions](/wiki/Prepositions "Prepositions") and Finnish
+[cases](/wiki/Case_\(linguistics\) "Case \(linguistics\)") could have caused
+Swedish factories to pay more attention to the work process while Finnish
+factory organizers paid more attention to the individual worker.[75]
+
+[Everett](/wiki/Daniel_Everett "Daniel Everett")'s work on the [Pirahã
+language](/wiki/Pirah%C3%A3_language "Pirahã language") of the
+[Brazilian](/wiki/Brazil "Brazil") [Amazon](/wiki/Amazon_Basin "Amazon
+Basin")[76] found several peculiarities that he interpreted as corresponding
+to linguistically rare features, such as a lack of numbers and color terms in
+the way those are otherwise defined and the absence of certain types of
+clauses. Everett's conclusions were met with skepticism from universalists[77]
+who claimed that the linguistic deficit is explained by the lack of need for
+such concepts.[78]
+
+Recent research with non-linguistic experiments in languages with different
+grammatical properties (e.g., languages with and without [numeral
+classifiers](/wiki/Chinese_classifier "Chinese classifier") or with different
+gender grammar systems) showed that language differences in human
+categorization are due to such differences.[79] Experimental research suggests
+that this linguistic influence on thought diminishes over time, as when
+speakers of one language are exposed to another.[80]
+
+A study published by the [American Psychological
+Association](/wiki/American_Psychological_Association "American Psychological
+Association")’s [Journal of Experimental
+Psychology](/wiki/Journal_of_Experimental_Psychology "Journal of Experimental
+Psychology") claimed that language can influence how one estimates time. The
+study focused on three groups, those who spoke only Swedish, those who spoke
+only Spanish and bilingual speakers who spoke both of those languages. Swedish
+speakers describe time using distance terms like "long" or "short" while
+Spanish speakers do it using volume related terms like "big" or "small". The
+researchers asked the participants to estimate how much time had passed while
+watching a line growing across a screen, or a container being filled, or both.
+The researches stated that "When reproducing duration, Swedish speakers were
+misled by stimulus length, and Spanish speakers were misled by stimulus
+size/quantity." When the bilinguals were prompted with the word “duración”
+(the Spanish word for duration) they based their time estimates of how full
+the containers were, ignoring the growing lines. When prompted with the word
+“tid” (the Swedish word for duration) they estimated the time elapsed solely
+by the distance the lines had traveled.[81][82]
+
+### Color
+terminology[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=23
+"Edit section: Color terminology")]
+
+Main article: [Linguistic relativity and the color naming
+debate](/wiki/Linguistic_relativity_and_the_color_naming_debate "Linguistic
+relativity and the color naming debate")
+
+Research continued after Lenneberg/Roberts and Brown/Lenneberg. The studies
+showed a correlation between color term numbers and ease of recall in both
+Zuni and English speakers. Researchers attributed this to focal colors having
+higher codability than less focal colors, and not with linguistic relativity
+effects. Berlin/Kay found universal typological color principles that are
+determined by biological rather than linguistic factors.[45] This study
+sparked studies into typological universals of color terminology. Researchers
+such as Lucy,[83] Saunders[84] and Levinson[85] argued that Berlin and Kay's
+study does not refute linguistic relativity in color naming, because of
+unsupported assumptions in their study (such as whether all cultures in fact
+have a clearly-defined category of "color") and because of related data
+problems. Researchers such as Maclaury continued investigation into color
+naming. Like Berlin and Kay, Maclaury concluded that the domain is governed
+mostly by physical-biological universals.[86][87]
+
+## Other
+domains[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=24
+"Edit section: Other domains")]
+
+Linguistic relativity inspired others to consider whether thought could be
+influenced by manipulating language.
+
+### Science and
+philosophy[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=25
+"Edit section: Science and philosophy")]
+
+The question bears on philosophical, psychological, linguistic and
+anthropological questions.[ _[clarification
+needed](/wiki/Wikipedia:Please_clarify "Wikipedia:Please clarify")_ ]
+
+A major question is whether human psychological faculties are mostly innate or
+whether they are mostly a result of learning, and hence subject to cultural
+and social processes such as language. The innate view holds that humans share
+the same set of basic faculties, and that variability due to cultural
+differences is less important and that the human mind is a mostly biological
+construction, so that all humans sharing the same neurological configuration
+can be expected to have similar cognitive patterns.
+
+Multiple alternatives have advocates. The contrary
+[constructivist](/wiki/Social_constructivism "Social constructivism") position
+holds that human faculties and concepts are largely influenced by socially
+constructed and learned categories, without many biological restrictions.
+Another variant is [idealist](/wiki/Idealist "Idealist"), which holds that
+human mental capacities are generally unrestricted by biological-material
+strictures. Another is [essentialist](/wiki/Essentialism "Essentialism"),
+which holds that essential differences[ _[clarification
+needed](/wiki/Wikipedia:Please_clarify "Wikipedia:Please clarify")_ ] may
+influence the ways individuals or groups experience and conceptualize the
+world. Yet another is [relativist](/wiki/Relativist "Relativist") ([Cultural
+relativism](/wiki/Cultural_relativism "Cultural relativism")), which sees
+different cultural groups as employing different conceptual schemes that are
+not necessarily compatible or commensurable, nor more or less in accord with
+external reality.[88]
+
+Another debate considers whether thought is a form of internal speech or is
+independent of and prior to language.[ _[citation
+needed](/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")_ ]
+
+In the [philosophy of language](/wiki/Philosophy_of_language "Philosophy of
+language") the question addresses the relations between language, knowledge
+and the external world, and the concept of [truth](/wiki/Truth "Truth").
+Philosophers such as [Putnam](/wiki/Hilary_Putnam "Hilary Putnam"),
+[Fodor](/wiki/Jerry_Fodor "Jerry Fodor"), Davidson, and
+[Dennett](/wiki/Daniel_Dennett "Daniel Dennett") see language as representing
+directly entities from the objective world and that categorization reflect
+that world. Other philosophers (e.g. [Quine](/wiki/Willard_Van_Orman_Quine
+"Willard Van Orman Quine"), Searle, [Foucault](/wiki/Michel_Foucault "Michel
+Foucault")) argue that categorization and conceptualization is subjective and
+arbitrary.
+
+Another question is whether language is a tool for representing and referring
+to objects in the world, or whether it is a system used to construct mental
+representations that can be communicated.[ _[clarification
+needed](/wiki/Wikipedia:Please_clarify "Wikipedia:Please clarify")_ ]
+
+### Therapy and self-
+development[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=26
+"Edit section: Therapy and self-development")]
+
+Main articles: [General semantics](/wiki/General_semantics "General
+semantics") and [Neurolinguistic
+Programming](/wiki/Neurolinguistic_Programming "Neurolinguistic Programming")
+
+Sapir/Whorf contemporary [Alfred Korzybski](/wiki/Alfred_Korzybski "Alfred
+Korzybski") was independently developing his theory of [general
+semantics](/wiki/General_Semantics "General Semantics"), which was aimed at
+using language's influence on thinking to maximize human cognitive abilities.
+Korzybski's thinking was influenced by logical philosophy such as
+[Russell](/wiki/Bertrand_Russell "Bertrand Russell") and
+[Whitehead's](/wiki/Alfred_North_Whitehead "Alfred North Whitehead")
+_[Principia Mathematica](/wiki/Principia_Mathematica "Principia Mathematica")_
+and Wittgenstein's _[Tractatus Logico-Philosophicus](/wiki/Tractatus_Logico-
+Philosophicus "Tractatus Logico-Philosophicus")_.[89] Although Korzybski was
+not aware of Sapir and Whorf's writings, the movement was followed by Whorf-
+admirer Stuart Chase, who fused Whorf's interest in cultural-linguistic
+variation with Korzybski's programme in his popular work " _The Tyranny of
+Words_ ". [S. I. Hayakawa](/wiki/S._I._Hayakawa "S. I. Hayakawa") was a
+follower and popularizer of Korzybski's work, writing _[Language in Thought
+and Action](/wiki/Language_in_Thought_and_Action "Language in Thought and
+Action")_. The general semantics movement influenced the development of
+[neurolinguistic programming](/wiki/Neurolinguistic_programming
+"Neurolinguistic programming"), another therapeutic technique that seeks to
+use awareness of language use to influence cognitive patterns.[90]
+
+Korzybski independently described a "strong" version of the hypothesis of
+linguistic relativity.[91]
+
+> We do not realize what tremendous power the structure of an habitual
+> language has. It is not an exaggeration to say that it enslaves us through
+> the mechanism of s[emantic] r[eactions] and that the structure which a
+> language exhibits, and impresses upon us unconsciously, is automatically
+> projected upon the world around us.
+>
+> — Korzybski (1930) [92]
+
+### Artificial
+languages[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=27
+"Edit section: Artificial languages")]
+
+Main articles: [Constructed languages](/wiki/Constructed_languages
+"Constructed languages") and [Experimental
+languages](/wiki/Experimental_languages "Experimental languages")
+
+In their fiction, authors such as [Ayn Rand](/wiki/Ayn_Rand "Ayn Rand") and
+[George Orwell](/wiki/George_Orwell "George Orwell") explored how linguistic
+relativity might be exploited for political purposes. In Rand's
+[_Anthem_](/wiki/Anthem_\(novella\) "Anthem \(novella\)"), a fictive
+[communist](/wiki/Communist "Communist") society removed the possibility of
+individualism by removing the word "I" from the language.[ _[citation
+needed](/wiki/Wikipedia:Citation_needed "Wikipedia:Citation needed")_ ] In
+Orwell's _[1984](/wiki/1984_\(book\) "1984 \(book\)")_ the authoritarian state
+created the language [Newspeak](/wiki/Newspeak "Newspeak") to make it
+impossible for people to think critically about the government, or even to
+contemplate that they might be impoverished or oppressed, by reducing the
+number of words to reduce the thought of the locutor.[93]
+
+Others have been fascinated by the possibilities of creating new languages
+that could enable new, and perhaps better, ways of thinking. Examples of such
+languages designed to explore the human mind include [Loglan](/wiki/Loglan
+"Loglan"), explicitly designed by [James Cooke Brown](/wiki/James_Cooke_Brown
+"James Cooke Brown") to test the linguistic relativity hypothesis, by
+experimenting whether it would make its speakers think more logically.
+Speakers of [Lojban](/wiki/Lojban "Lojban"), an evolution of Loglan, report
+that they feel speaking the language enhances their ability for logical
+thinking[ _[citation needed](/wiki/Wikipedia:Citation_needed
+"Wikipedia:Citation needed")_ ]. [Suzette Haden
+Elgin](/wiki/Suzette_Haden_Elgin "Suzette Haden Elgin"), who was involved in
+the early development of neurolinguistic programming, invented the language
+[Láadan](/wiki/L%C3%A1adan "Láadan") to explore linguistic relativity by
+making it easier to express what Elgin considered the female worldview, as
+opposed to [Standard Average European](/wiki/Standard_Average_European
+"Standard Average European") languages which she considered to convey a "male
+centered" world view.[94] John Quijada's language [Ithkuil](/wiki/Ithkuil
+"Ithkuil") was designed to explore the limits of the number of cognitive
+categories a language can keep its speakers aware of at once.[95] Similarly,
+Sonja Lang's [Toki Pona](/wiki/Toki_Pona "Toki Pona") was developed according
+to a [Taoist](/wiki/Taoism "Taoism") point of view for exploring how (or if)
+such a language would direct human thought.[96]
+
+### Programming
+languages[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=28
+"Edit section: Programming languages")]
+
+[APL programming language](/wiki/APL_\(programming_language\) "APL
+\(programming language\)") originator [Kenneth E.
+Iverson](/wiki/Kenneth_E._Iverson "Kenneth E. Iverson") believed that the
+Sapir–Whorf hypothesis applied to computer languages (without actually
+mentioning it by name). His [Turing award](/wiki/Turing_award "Turing award")
+lecture, "Notation as a tool of thought", was devoted to this theme, arguing
+that more powerful notations aided thinking about computer algorithms.[ _[non-
+primary source
+needed](/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources
+"Wikipedia:No original research")_ ][97]
+
+The essays of [Paul Graham](/wiki/Paul_Graham_\(computer_programmer\) "Paul
+Graham \(computer programmer\)") explore similar themes, such as a conceptual
+hierarchy of computer languages, with more expressive and succinct languages
+at the top. Thus, the so-called [_blub_ paradox](/wiki/Blub_paradox "Blub
+paradox") (after a hypothetical programming language of average complexity
+called _Blub_ ) says that anyone preferentially using some particular
+programming language will _know_ that it is more powerful than some, but not
+that it is less powerful than others. The reason is that _writing_ in some
+language means _thinking_ in that language. Hence the paradox, because
+typically programmers are "satisfied with whatever language they happen to
+use, because it dictates the way they think about programs".[98]
+
+In a 2003 presentation at an [open source](/wiki/Open-source_software "Open-
+source software") convention, [Yukihiro Matsumoto](/wiki/Yukihiro_Matsumoto
+"Yukihiro Matsumoto"), creator of the [programming
+language](/wiki/Programming_language "Programming language")
+[Ruby](/wiki/Ruby_\(programming_language\) "Ruby \(programming language\)"),
+said that one of his inspirations for developing the language was the science
+fiction novel _[Babel-17](/wiki/Babel-17 "Babel-17")_ , based on the
+Sapir–Whorf Hypothesis.[99]
+
+### In popular
+culture[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=29
+"Edit section: In popular culture")]
+
+[Ted Chiang](/wiki/Ted_Chiang "Ted Chiang")'s short story _[Story of Your
+Life](/wiki/Story_of_Your_Life "Story of Your Life")_ developed the concept of
+the Sapir-Whorf hypothesis as applied to an alien species which visits Earth.
+The aliens' biology contributes to their spoken and written languages, which
+are distinct. In the 2016 American film [_Arrival_](/wiki/Arrival_\(film\)
+"Arrival \(film\)"), based on Chiang's short story, the Sapir-Whorf hypothesis
+is the premise. The protagonist explains that "the Sapir-Whorf hypothesis is
+the theory that the language you speak determines how you think".[100]
+
+In his science fiction novel _[The Languages of
+Pao](/wiki/The_Languages_of_Pao "The Languages of Pao")_ the author [Jack
+Vance](/wiki/Jack_Vance "Jack Vance") describes how specialized languages are
+a major part of a strategy to create specific classes in a society, to enable
+the population to withstand occupation and develop itself.
+
+## See
+also[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=30
+"Edit section: See also")]
+
+  * _[Basic Color Terms: Their Universality and Evolution](/wiki/Basic_Color_Terms:_Their_Universality_and_Evolution "Basic Color Terms: Their Universality and Evolution")_
+  * [Bicameralism](/wiki/Bicameralism_\(psychology\) "Bicameralism \(psychology\)")
+  * [Eskimo words for snow](/wiki/Eskimo_words_for_snow "Eskimo words for snow")
+  * [Ethnolinguistics](/wiki/Ethnolinguistics "Ethnolinguistics")
+  * [Hopi time controversy](/wiki/Hopi_time_controversy "Hopi time controversy")
+  * [Hypocognition](/wiki/Hypocognition "Hypocognition")
+  * [Language planning](/wiki/Language_planning "Language planning")
+  * [Language and thought](/wiki/Language_and_thought "Language and thought")
+  * [Linguistic anthropology](/wiki/Linguistic_anthropology "Linguistic anthropology")
+  * [Linguistic determinism](/wiki/Linguistic_determinism "Linguistic determinism")
+  * [Psycholinguistics](/wiki/Psycholinguistics "Psycholinguistics")
+  * [Relativism](/wiki/Relativism "Relativism")
+  * [Terministic screen](/wiki/Terministic_screen "Terministic screen")
+
+##
+Notes[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=31
+"Edit section: Notes")]
+
+  1. **^** [Hutton, Christopher](/wiki/Christopher_Hutton "Christopher Hutton") (2012). [_Linguistics and the Third Reich_](https://books.google.com/books?id=tYcrBgAAQBAJ&lpg=PP1&pg=PA4#v=onepage&q&f=false). Routledge. p. 4\. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [9781134657278](/wiki/Special:BookSources/9781134657278 "Special:BookSources/9781134657278"). Retrieved 19 September 2019 - via Google Books.
+  2. **^** Panko, Ben (2 December 2016). ["Does the Linguistic Theory at the Center of the Film 'Arrival' Have Any Merit?"](https://www.smithsonianmag.com/science-nature/does-century-old-linguistic-hypothesis-center-film-arrival-have-any-merit-180961284/). _[Smithsonian](/wiki/Smithsonian "Smithsonian") Magazine_.
+  3. ^ _**a**_ _**b**_ _**c**_ _**d**_ [Broditsky, Lera](/w/index.php?title=Lera_Broditsky&action=edit&redlink=1 "Lera Broditsky \(page does not exist\)"); [Liberman, Mark](/wiki/Mark_Liberman "Mark Liberman") (13–23 December 2010). ["For and Against Linguistic Relativity"](https://web.archive.org/web/20120215074211/http://www.economist.com/debate/overview/190). _[The Economist](/wiki/The_Economist "The Economist")_. The Economist Newspaper Limited. Archived from [the original](http://www.economist.com/debate/overview/190) on 15 February 2012. Retrieved 19 September 2019. (a debate between university professors)
+  4. **^** Hill & Mannheim (1992)
+  5. **^** Kennison, Shelia (2013). _Introduction to language development_. Los Angeles: Sage.
+  6. **^** Koerner, E. F. Konrad (December 1992). "The Sapir-Whorf Hypothesis: A Preliminary History and a Bibliographical Essay". _Journal of Linguistic Anthropology_. **2** (2): 180.
+  7. **^** "The Sapir–Whorf hypothesis", in Hoijer 1954:92–105
+  8. **^** This usage is now generally seen as a misnomer. As Jane Hill and Bruce Mannheim write: Yet, just as the Holy Roman Empire was neither holy, nor Roman, nor an Empire the "Sapir–Whorf Hypothesis" is neither consistent with the writings of Sapir and Whorf, nor a hypothesis (Hill & Mannheim 1992, p386)
+  9. ^ _**a**_ _**b**_ Koerner, E.F.K."Towards a full pedigree of the Sapir–Whorf Hypothesis: from Locke to Lucy" Chapter in Pütz & Verspoor (2000:17)"
+  10. **^** Wolff & Holmes (2011)
+  11. ^ _**a**_ _**b**_ Ahearn 2011, p. 69.
+  12. **^** McComiskey, Bruce (2002). [_Gorgias and the New Sophistic Rhetoric_](https://books.google.com/books?id=s3T6LYkGOqUC). SIU Press. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-8093-2397-5](/wiki/Special:BookSources/978-0-8093-2397-5 "Special:BookSources/978-0-8093-2397-5").
+  13. **^** Gumperz & Levinson 1996, p. 2.
+  14. **^** _Arcana Coelestia_ section 1059. [http://smallcanonsearch.com/read.php?book=ac&section=1059](http://smallcanonsearch.com/read.php?book=ac&section=1059).
+  15. **^** _True Christian Religion_ section 813. [http://smallcanonsearch.com/read.php?book=tcr&section=813](http://smallcanonsearch.com/read.php?book=tcr&section=813).
+  16. **^** Robert L. Miller _The Linguistic Relativity Principle and Humboldtian Ethnolinguistics_ p. 18.
+  17. **^** Christina McAfee "The Linguistic Relativity Theory and Benjamin Lee Whorf," _The McMaster Journal of Communication_ Vol. 1(2004).
+  18. **^** Quoted in Bernard D. Den Ouden, _Language and Creativity: An Interdisciplinary Essay in Chomskyan Humanism,_ p. 25.
+  19. ^ _**a**_ _**b**_ Trabant, Jürgen."How relativistic are Humboldts "Weltansichten"?" in Pütz & Verspoor 2000
+  20. **^** [<https://halshs.archives-ouvertes.fr/halshs-00292388/document> Language and colonialism. Applied linguistics in the context of creole communities], Bettina Migge, July 1, 2008, [University College Dublin](/wiki/University_College_Dublin "University College Dublin") ([HAL French Open Academic Library](/wiki/Halshs.archives-ouvertes.fr "Halshs.archives-ouvertes.fr") website) 
+  21. **^** Seuren 1998, p. 180.
+  22. **^** Seuren 1998, p. 181.
+  23. **^** Boas, Franz (1911). [_Handbook of American Indian languages_](https://books.google.com/books?id=EnZC68mmRhQC). **1**. Bureau of American Ethnology, Bulletin 40. Washington: Government Print Office (Smithsonian Institution, Bureau of American Ethnology).
+  24. **^** Sapir, Edward (1929), "The status of linguistics as a science", _Language_ , **5** (4): 207–214, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.2307/409588](//doi.org/10.2307%2F409588), [hdl](/wiki/Handle_System "Handle System"):[11858/00-001M-0000-002C-4321-4](//hdl.handle.net/11858%2F00-001M-0000-002C-4321-4), [JSTOR](/wiki/JSTOR "JSTOR") [409588](//www.jstor.org/stable/409588)
+  25. **^** [Sapir, Edward](/wiki/Morris_Swadesh "Morris Swadesh"); Swadesh, Morris (1946). [_American Indian Grammatical Categories_](https://books.google.com/books?id=wSYJMgEACAAJ&pg=PA100). pp. 100–107.
+  26. **^** Sapir 1921, p. 213–4.
+  27. **^** Sapir 1921, p. 215.
+  28. **^** For a critique of Weisgerber, see, for example: Beat Lehmann (1998), _ROT ist nicht ″rot″ ist nicht [rot]. Eine Bilanz und Neuinterpretation der linguistischen Relativitätstheorie_. Gunter Narr, Tübingen. pp. 58–80; Iwar Werlen (2002), 'Das Worten der Welt', in: _Lexikologie ... Ein internationales Handbuch_ , ed. by D. Alan Cruse et al., Walter de Gruyter, Berlin & New York, 1. pp. 380–391.
+  29. **^** Vygotsky, L. (1934/1986). Thought and language. Cambridge, Massachusetts: MIT Press.
+  30. **^** Lucy & Wertsch 1987.
+  31. **^** Pula 1992.
+  32. **^** Whorf 1956, p. 214.
+  33. ^ _**a**_ _**b**_ Whorf 1956.
+  34. **^** Darnell 1990, p. 380-81.
+  35. **^** Lucy 1992b, p. 25.
+  36. **^** Whorf 1956, p. 212–214.
+  37. ^ _**a**_ _**b**_ Pullum 1991.
+  38. **^** Lenneberg 1953.
+  39. **^** Lee 1996 Lee 1996 Leavitt 2011, pp. 179–187 Lucy 1992b, p. 286 Lucy 1996, p. 43 Dinwoodie 2006
+  40. ^ _**a**_ _**b**_ _**c**_ Lakoff 1987.
+  41. **^** Brown & Lenneberg 1954, p. 455,457.
+  42. **^** Brown 1976, p. 128.
+  43. **^** D'Andrade 1995, p. 185.
+  44. **^** Gumperz & Levinson 1996, p. 3, 6.
+  45. ^ _**a**_ _**b**_ Berlin & Kay 1969.
+  46. **^** Gumperz & Levinson 1996, p. 6.
+  47. ^ _**a**_ _**b**_ Lucy 1992a.
+  48. **^** Malotki 1983.
+  49. **^** Lucy 1996.
+  50. **^** Lucy1992b, p. 286.
+  51. **^** Leavitt 2011, p. 180.
+  52. **^** Levinson 2012, p. xii.
+  53. **^** Pinker 1994, p. 60.
+  54. **^** Casasanto 2008.
+  55. **^** Fishman 1978.
+  56. **^** Fishman 1982, p. 5.
+  57. **^** Whorf 1956, p. 244.
+  58. **^** Seidner 1982.
+  59. **^** [Studying Spatial Conceptualization across Cultures: Anthropology and Cognitive Science](https://www.jstor.org/stable/640692?seq=1#page_scan_tab_contents), Stephan C. Levinson, Ethos, Vol. 26, No. 1, Language, Space, and Culture (Mar., 1998), page 13 ([JSTOR](/wiki/JSTOR "JSTOR"))
+  60. **^** Gentner, Dedre; Boroditsky, Lera (2001). "Individuation, relativity, and early word development". In Melissa Bowerman and Stephen Levinson (ed.). _Language Acquisition and Conceptual Development_. Cambridge University Press. pp. 215–256. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-521-59659-6](/wiki/Special:BookSources/978-0-521-59659-6 "Special:BookSources/978-0-521-59659-6").
+  61. **^** Levinson, Stephen (2001). "Covariation between spatial language and cognition, and its implications for language learning". In Melissa Bowerman and Stephen Levinson (ed.). _Language Acquisition and Conceptual Development_. Cambridge University Press. pp. 566–588. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-521-59659-6](/wiki/Special:BookSources/978-0-521-59659-6 "Special:BookSources/978-0-521-59659-6").
+  62. **^** Gilbert, Aubrey L.; Regier, Terry; Kay, Paul; Ivry, Richard B. (10 January 2006). ["Whorf hypothesis is supported in the right visual field but not the left"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1326182). _Proceedings of the National Academy of Sciences of the United States of America_. **103** (2): 489–494. [Bibcode](/wiki/Bibcode "Bibcode"):[2006PNAS..103..489G](https://ui.adsabs.harvard.edu/abs/2006PNAS..103..489G). [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1073/pnas.0509868103](//doi.org/10.1073%2Fpnas.0509868103). [ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0027-8424](//www.worldcat.org/issn/0027-8424). [PMC](/wiki/PubMed_Central "PubMed Central") [1326182](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1326182). [PMID](/wiki/PubMed_Identifier "PubMed Identifier") [16387848](//www.ncbi.nlm.nih.gov/pubmed/16387848).
+  63. **^** Hickmann, Maya; Robert, Stéphane (16 May 2006). ["The relativity of motion in first language acquisition"](https://books.google.com/books?id=naZ_bZHEs4IC&pg=PA281). _Space in Languages: Linguistic Systems and Cognitive Categories_. John Benjamins Publishing. pp. 281–308. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-90-272-9355-8](/wiki/Special:BookSources/978-90-272-9355-8 "Special:BookSources/978-90-272-9355-8").
+  64. **^** Perlovsky, Leonid (2009). "Language and emotions: Emotional Sapir–Whorf hypothesis". _Neural Networks_. **22** (5–6): 518–526. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1016/j.neunet.2009.06.034](//doi.org/10.1016%2Fj.neunet.2009.06.034). [ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0893-6080](//www.worldcat.org/issn/0893-6080). [PMID](/wiki/PubMed_Identifier "PubMed Identifier") [19616406](//www.ncbi.nlm.nih.gov/pubmed/19616406).
+  65. **^** Mazuka, Reiko; Friedman, Ronald S. (2000). "Linguistic Relativity in Japanese and English: Is Language the Primary Determinant in Object Classification?". _Journal of East Asian Linguistics_. **9** (4): 353–377. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1023/A:1008356620617](//doi.org/10.1023%2FA%3A1008356620617). [ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0925-8558](//www.worldcat.org/issn/0925-8558).
+  66. **^** Pavlenko, A. (2003). "Eyewitness memory in late bilinguals: Evidence for discursive relativity". _International Journal of Bilingualism_. **7** (3): 257–281. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1177/13670069030070030301](//doi.org/10.1177%2F13670069030070030301). [ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [1367-0069](//www.worldcat.org/issn/1367-0069).
+  67. **^** Pavlenko 1999 Cook & Bassetti 2010 Athanasopoulos 2009 Phillips & Boroditsky 2003
+  68. **^** Andrews 1994.
+  69. **^** Boroditsky, Ham & Ramscar 2002.
+  70. **^** Lucy 1997.
+  71. **^** Lucy 1992b.
+  72. **^** Lucy 1997, p. 301.
+  73. **^** Levinson 1996.
+  74. **^** Au, T. (1984). "Counterfactuals: In reply to Alfred Bloom". _Cognition_. **17** (3): 289–302. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1016/0010-0277(84)90012-X](//doi.org/10.1016%2F0010-0277%2884%2990012-X).
+  75. **^** Lucy 1997, p. 304.
+  76. **^** Everett, Daniel L. (2005), ["Cultural constraints on grammar and cognition in Pirahã"](http://www1.icsi.berkeley.edu/~kay/Everett.CA.Piraha.pdf) (PDF), _Current Anthropology_ , **46** (4): 621–646, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1086/431525](//doi.org/10.1086%2F431525), retrieved 1 October 2012
+  77. **^** Frank, Michael C.; Everett, Daniel L.; Fedorenko, Evelina; Gibson, Edward (2008), ["Number as a cognitive technology: Evidence from Pirahã language and cognition"](https://web.archive.org/web/20100215125604/http://tedlab.mit.edu/tedlab_website/researchpapers/Frank%20et%20al.%20InPress%20Cog.pdf) (PDF), _Cognition_ , **108** (3), pp. 819–24, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1016/j.cognition.2008.04.007](//doi.org/10.1016%2Fj.cognition.2008.04.007), [PMID](/wiki/PubMed_Identifier "PubMed Identifier") [18547557](//www.ncbi.nlm.nih.gov/pubmed/18547557), archived from [the original](http://tedlab.mit.edu/tedlab_website/researchpapers/Frank%20et%20al.%20InPress%20Cog.pdf) (PDF) on 15 February 2010, retrieved 14 May 2009
+  78. **^** Ira Nevins, Andrew; Pesetsky, David; Rodrigues, Cilene (2009). ["Piraha Exceptionality: a Reassessment"](http://web.mit.edu/linguistics/people/faculty/pesetsky/Nevins_Pesetsky_Rodrigues_Piraha_Exceptionality_a_Reassessment.pdf) (PDF). _Language_. **85** (2): 355–404. [CiteSeerX](/wiki/CiteSeerX "CiteSeerX") [10.1.1.404.9474](//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.404.9474). [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1353/lan.0.0107](//doi.org/10.1353%2Flan.0.0107). [hdl](/wiki/Handle_System "Handle System"):[1721.1/94631](//hdl.handle.net/1721.1%2F94631).
+  79. **^** Kou, J. Y.; Sera, M. D. (2007). "Classifier effect on human categorization: the role of shape classifiers in Chinese Chinese. In". _Journal of East Asian Linguistics_. **18** : 1–19. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1007/s10831-008-9036-6](//doi.org/10.1007%2Fs10831-008-9036-6).
+  80. **^** Bross, Fabian; Pfaller, Philip (2012). ["The decreasing Whorf-effect: a study in the classifier systems of Mandarin and Thai"](http://junq.info/wp-content/uploads/downloads/2012/06/Whorf-effects.pdf) (PDF). _Journal of Unsolved Questions_. **2** (2): S19–S24.
+  81. **^** ["Your perception of time may depend on the language you speak"](http://www.rawstory.com/2017/05/your-perception-of-time-may-depend-on-the-language-you-speak/). Retrieved 4 June 2018.
+  82. **^** Pierre, Kendra (9 May 2017). ["The language you speak changes your perception of time"](http://www.popsci.com/language-time-perception#page-3). Popsci.com. Retrieved 4 June 2018.
+  83. **^** Lucy, J. A. (1997). The linguistics of "color". In C.L. Hardin & L. Maffi (Eds.), Color categories in thought and language (pp. 320–436). Cambridge: Cambridge University Press.
+  84. **^** Saunders, Barbara (2000). "Revisiting Basic Color Terms". _Journal of the Royal Anthropological Institute_. **6** : 81–99. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1111/1467-9655.00005](//doi.org/10.1111%2F1467-9655.00005).
+  85. **^** Levinson, Stephen C. (2000). "Yeli Dnye and the Theory of Basic Color Terms". _Journal of Linguistic Anthropology_. **10** : 3–55. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1525/jlin.2000.10.1.3](//doi.org/10.1525%2Fjlin.2000.10.1.3). [hdl](/wiki/Handle_System "Handle System"):[11858/00-001M-0000-0013-2A6B-F](//hdl.handle.net/11858%2F00-001M-0000-0013-2A6B-F).
+  86. **^** MacLaury, Robert E.; Hewes, Gordon W.; Kinnear, Paul R.; Deregowski, J. B.; Merrifield, William R.; Saunders, B. a. C.; Stanlaw, James; Toren, Christina; Van Brakel, J. (1 April 1992). "From Brightness to Hue: An Explanatory Model of Color-Category Evolution [and Comments and Reply]". _Current Anthropology_. **33** (2): 137–186. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1086/204049](//doi.org/10.1086%2F204049). [ISSN](/wiki/International_Standard_Serial_Number "International Standard Serial Number") [0011-3204](//www.worldcat.org/issn/0011-3204).
+  87. **^** MacLaury, Robert E. (1 January 1997). [_Color and Cognition in Mesoamerica: Constructing Categories as Vantages_](https://books.google.com/books?id=-GG-hq9ii6kC). University of Texas Press. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-292-75193-4](/wiki/Special:BookSources/978-0-292-75193-4 "Special:BookSources/978-0-292-75193-4").
+  88. **^** Leavitt 2011.
+  89. **^** Korzybski, Alfred (1949). [_Time-binding: The General Theory : Two Papers 1924–1926_](https://books.google.com/books?id=3BvXAAAAMAAJ&pg=PA5). Institute of General Semantics. pp. (5), 54.
+  90. **^** Wake, Lisa (31 March 2008). [_Neurolinguistic Psychotherapy: A Postmodern Perspective_](https://books.google.com/books?id=xmffzEo-qXIC). Routledge. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1-134-09482-0](/wiki/Special:BookSources/978-1-134-09482-0 "Special:BookSources/978-1-134-09482-0").
+  91. **^** Read, Allen Walker (1982). ["The Semiotic Aspect of Alfred Korzybski's General Semantics"](http://www.generalsemantics.org/wp-content/uploads/2011/05/articles/etc/40-1-read.pdf) (PDF). Semiotics: 101–107. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.5840/cpsem19828](//doi.org/10.5840%2Fcpsem19828). Cite journal requires `|journal=` ([help](/wiki/Help:CS1_errors#missing_periodical "Help:CS1 errors"))
+  92. **^** Korzybski, Alfred (1958). [_Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics_](https://books.google.com/books?id=KN5gvaDwrGcC). Institute of GS. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-937298-01-5](/wiki/Special:BookSources/978-0-937298-01-5 "Special:BookSources/978-0-937298-01-5").
+  93. **^** Pinker 1994, chap. 3.
+  94. **^** Okrent, Arika (2009), [_In the Land of Invented Languages: Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build A Perfect Language_](https://archive.org/details/inlandofinvented00okre) , Spiegel & Grau, pp. 208–257, [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-385-52788-0](/wiki/Special:BookSources/978-0-385-52788-0 "Special:BookSources/978-0-385-52788-0")
+  95. **^** Foer, Joshua (24 December 2012). ["UTOPIAN FOR BEGINNERS: An amateur linguist loses control of the language he invented"](http://www.newyorker.com/reporting/2012/12/24/121224fa_fact_foer). _New York Times_.
+  96. **^** _A Million Words and Counting: How Global English Is Rewriting the World_ , Paul J. J. Payack, (C) 2007, p. 194.
+  97. **^** Iverson, Kenneth E. (August 1980). ["Notation as a tool of thought"](https://web.archive.org/web/20110710183418/http://elliscave.com/APL_J/tool.pdf) (PDF). _[Communications of the ACM](/wiki/Communications_of_the_ACM "Communications of the ACM")_. **23** (8): 444–465. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1145/358896.358899](//doi.org/10.1145%2F358896.358899). Archived from [the original](http://elliscave.com/APL_J/tool.pdf) (PDF) on 10 July 2011.
+  98. **^** Graham 2004.
+  99. **^** ["The Power and Philosophy of Ruby (or how to create Babel-17"](http://www.rubyist.net/~matz/slides/oscon2003/mgp00001.html).
+  100. **^** ["The science behind the movie 'Arrival'"](https://www.washingtonpost.com/national/health-science/the-science-behind-the-movie-arrival/2016/11/14/5e344114-a6a7-11e6-ba59-a7d93165c6d4_story.html). _Washington Post_. Retrieved 23 April 2017.
+
+##
+References[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=32
+"Edit section: References")]
+
+  * Ahearn, Laura M. (21 March 2011). [_Living Language: An Introduction to Linguistic Anthropology_](https://books.google.com/books?id=2vmHpB2YvXsC). John Wiley & Sons. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-1-4443-4054-9](/wiki/Special:BookSources/978-1-4443-4054-9 "Special:BookSources/978-1-4443-4054-9").
+  * Andrews, David (1994), "The Russian color categories sinij and goluboj: An experimental analysis of their interpretation in the standard and émigré languages", _Journal of Slavic Linguistics_ , **2** : 9–28
+  * Athanasopoulos, Panos (2009), "Cognitive representation of colour in bilinguals: The case of Greek blues", _Bilingualism: Language and Cognition_ , **12** (1): 83–95, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1017/S136672890800388X](//doi.org/10.1017%2FS136672890800388X)
+  * Berlin, Brent; Kay, Paul (1969), _Basic Color Terms: Their Universality and Evolution_ , Berkeley: University of California Press
+  * Boroditsky, Lera; Ham, Wendy; Ramscar, Michael (2002), "What is universal in event perception? Comparing English & Indonesian speakers", in W. D. Gray; C. D. Schunn (eds.), _Proceedings of the Twenty-Fourth Annual Conference of the Cognitive Science Society_ , Mahwah, NJ: Lawrence Erlbaum Associates
+  * Brown, R.; Lenneberg, Eric (1954), "A study in language and cognition", _Journal of Abnormal and Social Psychology_ , **49** (3): 454–462, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1037/h0057814](//doi.org/10.1037%2Fh0057814), [PMID](/wiki/PubMed_Identifier "PubMed Identifier") [13174309](//www.ncbi.nlm.nih.gov/pubmed/13174309)
+  * Brown, R. (1976), "In Memorial Tribute to Eric Lenneberg", _Cognition_ , **4** (2): 125–153, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1016/0010-0277(76)90001-9](//doi.org/10.1016%2F0010-0277%2876%2990001-9)
+  * Casasanto, Daniel (2008), ["Who's Afraid of the Big Bad Whorf? Crosslinguistic Differences in Temporal Language and Thought"](http://hdl.handle.net/11858/00-001M-0000-0013-1F69-A), _Language Learning_ , **58** (1): 79, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1111/j.1467-9922.2008.00462.x](//doi.org/10.1111%2Fj.1467-9922.2008.00462.x), [hdl](/wiki/Handle_System "Handle System"):[11858/00-001M-0000-0014-6D70-1](//hdl.handle.net/11858%2F00-001M-0000-0014-6D70-1)
+  * Cook, Vivian; Bassetti, Benedetta (2010), _Language and Bilingual Cognition_ , Hove: Psychology Press
+  * D'Andrade, Roy G. (27 January 1995). [_The Development of Cognitive Anthropology_](https://books.google.com/books?id=2QCWe2r-pvwC). Cambridge University Press. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-521-45976-1](/wiki/Special:BookSources/978-0-521-45976-1 "Special:BookSources/978-0-521-45976-1").
+  * Darnell, Regna (1990). [_Edward Sapir: Linguist, Anthropologist, Humanist_](https://books.google.com/books?id=plsOI2o6gu4C). University of California Press. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-520-06678-6](/wiki/Special:BookSources/978-0-520-06678-6 "Special:BookSources/978-0-520-06678-6").
+  * Dinwoodie, David W. (2006), "Time and the Individual in Native North America", in Kan, Sergei; Strong, Pauline Turner; Fogelson, Raymond (eds.), _New Perspectives on Native North America: Cultures, Histories, And Representations_ , U of Nebraska
+  * Drivonikou, G. V.; P. Kay; T. Regier; R. B. Ivry; A. L. Gilbert; A. Franklin; I. R. L. Davies (2007), "Further evidence that Whorfian effects are stronger in the right visual field than the left", _Proceedings of the National Academy of Sciences of the United States of America_ , **104** (3): 1097–1102, [Bibcode](/wiki/Bibcode "Bibcode"):[2007PNAS..104.1097D](https://ui.adsabs.harvard.edu/abs/2007PNAS..104.1097D), [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1073/pnas.0610132104](//doi.org/10.1073%2Fpnas.0610132104), [PMC](/wiki/PubMed_Central "PubMed Central") [1783370](//www.ncbi.nlm.nih.gov/pmc/articles/PMC1783370), [PMID](/wiki/PubMed_Identifier "PubMed Identifier") [17213312](//www.ncbi.nlm.nih.gov/pubmed/17213312)
+  * Everett, Caleb (2013), _Linguistic Relativity: Evidence Across Languages and Cognitive Domains_ , Berlin: De Gruyter Mouton
+  * [Fishman, Joshua A.](/wiki/Joshua_Aaron_Fishman "Joshua Aaron Fishman") (1978), "Positive bilingualism: Some overlooked rationales and forefathers", in J. E. Alatis (ed.), _International dimensions of bilingual education_ , Washington, D.C.: Georgetown University Press, pp. 42–52
+  * [Fishman, Joshua A.](/wiki/Joshua_Aaron_Fishman "Joshua Aaron Fishman") (1982), "Whorfianism of the third kind: Ethnolinguistic diversity as a worldwide societal asset", _Language in Society_ , **11** : 1–14, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1017/S0047404500009015](//doi.org/10.1017%2FS0047404500009015)
+  * Gilbert, Aubrey L.; Terry Regier, Paul Kay; Richard B. Ivry (2008), ["Support for lateralization of the Whorf effect beyond the realm of color discrimination"](http://www.icsi.berkeley.edu/~kay/cats-dogs-in-press.pdf) (PDF), _Brain and Language_ , **105** (2): 91–98, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1016/j.bandl.2007.06.001](//doi.org/10.1016%2Fj.bandl.2007.06.001), [PMID](/wiki/PubMed_Identifier "PubMed Identifier") [17628656](//www.ncbi.nlm.nih.gov/pubmed/17628656)
+  * Graham, Paul (2004). ["Beating the Averages"](http://www.paulgraham.com/avg.html). [_Hackers & Painters: Big Ideas from the Computer Age_](https://books.google.com/books?id=shycAgAAQBAJ). "O'Reilly Media, Inc.". [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-596-00662-4](/wiki/Special:BookSources/978-0-596-00662-4 "Special:BookSources/978-0-596-00662-4"). Retrieved 17 March 2014.
+  * Gumperz, John; Levinson, Stephen, eds. (1996), _Rethinking Linguistic Relativity_ , Cambridge: Cambridge University Press
+  * Hill, Jane H; Mannheim, Bruce (1992), ["Language and World view"](https://www.academia.edu/508299), _Annual Review of Anthropology_ , **21** : 381–406, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1146/annurev.an.21.100192.002121](//doi.org/10.1146%2Fannurev.an.21.100192.002121)
+  * Hoijer, Harry, ed. (1954), _Language in culture: Conference on the interrelations of language and other aspects of culture_ , Chicago: University of Chicago Press
+  * [Lakoff, George](/wiki/George_Lakoff "George Lakoff") (1987), _Women, fire, and dangerous things_ , University Of Chicago Press
+  * Leavitt, John (2011), _Linguistic Relativities: Language Diversity and Modern Thought_ , Cambridge, UK: Cambridge University Press, [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-521-76782-8](/wiki/Special:BookSources/978-0-521-76782-8 "Special:BookSources/978-0-521-76782-8")
+  * Lee, Penny (1 January 1996). [_The Whorf Theory Complex: A Critical Reconstruction_](https://books.google.com/books?id=GZnlaURrZYkC). John Benjamins Publishing. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-90-272-4569-4](/wiki/Special:BookSources/978-90-272-4569-4 "Special:BookSources/978-90-272-4569-4").
+  * [Lenneberg, Eric](/wiki/Eric_Lenneberg "Eric Lenneberg"); A. M. Brown (1956), "The Language of Experience: a Study in Methodology", _Indiana University Publications in Anthropology and Linguistics_
+  * [Lenneberg, Eric](/wiki/Eric_Lenneberg "Eric Lenneberg") (1953), "Cognition in Ethnolinguistics", _Language_ , **29** (4): 463–471, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.2307/409956](//doi.org/10.2307%2F409956), [JSTOR](/wiki/JSTOR "JSTOR") [409956](//www.jstor.org/stable/409956)
+  * [Levinson, Stephen C.](/wiki/Stephen_C._Levinson "Stephen C. Levinson") (1996), "Language and Space", _Annual Review of Anthropology_ , **25** : 353–82, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1146/annurev.anthro.25.1.353](//doi.org/10.1146%2Fannurev.anthro.25.1.353)
+  * [Levinson, Stephen C.](/wiki/Stephen_C._Levinson "Stephen C. Levinson") (2000), ["Yeli Dnye and the Theory of Basic Color Terms"](http://pubman.mpdl.mpg.de/pubman/item/escidoc:66491/component/escidoc:532185/2000_Yeli_Dnye_and.pdf) (PDF), _Journal of Linguistic Anthropology_ , **10** (1): 3–55, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1525/jlin.2000.10.1.3](//doi.org/10.1525%2Fjlin.2000.10.1.3), [hdl](/wiki/Handle_System "Handle System"):[11858/00-001M-0000-0013-2A6B-F](//hdl.handle.net/11858%2F00-001M-0000-0013-2A6B-F)
+  * [Levinson, Stephen C.](/wiki/Stephen_C._Levinson "Stephen C. Levinson") (2012), "Foreword", in Carroll, John B; Levinson, Stephen C; Lee, Penny (eds.), _Language, Thought and Reality_ (2nd ed.), Cambridge, Massachusetts/London, UK: MIT Press, pp. vii–xxiii, [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-262-51775-1](/wiki/Special:BookSources/978-0-262-51775-1 "Special:BookSources/978-0-262-51775-1")
+  * Lucy, John A. (1992a), _Grammatical Categories and Cognition: A Case Study of the Linguistic Relativity Hypothesis_ , Cambridge: Cambridge University Press
+  * Lucy, John A. (1992b), _Language Diversity and Thought: A Reformulation of the Linguistic Relativity Hypothesis_ , Cambridge: Cambridge University Press
+  * Lucy, John A. (1997), ["Linguistic Relativity"](http://www.linguisticanthropology.org/wp-content/uploads/2010/08/1997-Lucy-LinguisticRelativity-s.pdf) (PDF), _Annual Review of Anthropology_ , **26** : 291–312, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1146/annurev.anthro.26.1.291](//doi.org/10.1146%2Fannurev.anthro.26.1.291)
+  * Lucy, John A. (1996), "The Scope of Linguistic Relativity:An analysis of Empirical Research", in Gumperz, John; Levinson, Stephen (eds.), _Rethinking Linguistic Relativity_ , Cambridge: Cambridge University Press, pp. 37–69
+  * Lucy, J. A.; Wertsch, J. (1987), "Vygotsky and Whorf: A comparative analysis", in Hickmann, M. (ed.), _Social and functional approaches to language and thought_ , Cambridge, UK: Cambridge University Press., pp. 67–86
+  * Malotki, Ekkehart (1983), Werner Winter (ed.), "Hopi Time: A Linguistic Analysis of the Temporal Concepts in the Hopi Language", _Trends in Linguistics. Studies and Monographs_ , **20**
+  * Niemeier, Susanne (2000), René Dirven (ed.), _Evidence for linguistic relativity_ , John Benjamins Publishing Company, [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-90-272-3705-7](/wiki/Special:BookSources/978-90-272-3705-7 "Special:BookSources/978-90-272-3705-7")
+  * Pavlenko, Aneta (1999), "New approaches to concepts in bilingual memory", _Bilingualism: Language and Cognition_ , **2** (3): 209–230, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1017/S1366728999000322](//doi.org/10.1017%2FS1366728999000322)
+  * Phillips, Webb; Boroditsky, Lera (2003), "Can quirks of grammar affect the way you think? Grammatical gender and object concepts", in R. Alterman; D. Kirsh (eds.), _Proceedings of the Twenty-fifth Annual Meeting of the Cognitive Science Society_ , Boston: Cognitive Science Society
+  * [Pinker, Steven](/wiki/Steven_Pinker "Steven Pinker") (1994), [_The Language Instinct: How the Mind Creates Language_](/wiki/The_Language_Instinct "The Language Instinct"), Perennial
+  * [Pullum, Geoffrey](/wiki/Geoffrey_Pullum "Geoffrey Pullum") (1991), [_The Great Eskimo Vocabulary Hoax and other Irreverent Essays on the Study of Language_](http://users.utu.fi/freder/Pullum-Eskimo-VocabHoax.pdf) (PDF), Chicago University Press, retrieved 17 March 2014
+  * Pula, R (1992), "The Nietzche-Korzybski-Sapir-Whorf Hypothesis?", _ETC Review of General Semantics_ , **49** (1): 50–57
+  * Pütz, Martin; Verspoor, Marjolyn, eds. (2000), _Explorations in linguistic relativity_ , John Benjamins Publishing Company, [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-90-272-3706-4](/wiki/Special:BookSources/978-90-272-3706-4 "Special:BookSources/978-90-272-3706-4")
+  * [Sapir, Edward](/wiki/Edward_Sapir "Edward Sapir") (1921), _Language: An Introduction to the Study of Speech_ , Harcourt, Brace
+  * [Sapir, Edward](/wiki/Edward_Sapir "Edward Sapir") (1983), David G. Mandelbaum (ed.), _Selected Writings of Edward Sapir in Language, Culture, and Personality_ , University of California Press
+  * Schultz, Emily Ann (1990), _Dialogue at the Margins: Whorf, Bakhtin, and Linguistic Relativity_ , University of Wisconsin Press
+  * Seidner, Stanley S. (1982), _Ethnicity, Language, and Power from a Psycholinguistic Perspective_ , Bruxelles: Centre de recherche sur le pluralinguismePress
+  * Seuren, Pieter A. M. (1998), _Western linguistics: An historical introduction_ , Wiley-Blackwell, [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-631-20891-4](/wiki/Special:BookSources/978-0-631-20891-4 "Special:BookSources/978-0-631-20891-4")
+  * Trager, George L. (1959), "The Systematization of the Whorf Hypothesis", _Anthropological Linguistics_ , **1** (1): 31–35
+  * [Whorf, Benjamin](/wiki/Benjamin_Lee_Whorf "Benjamin Lee Whorf") (1956), Carroll, John B. (ed.), _Language, Thought, and Reality: Selected Writings of Benjamin Lee Whorf_ , MIT Press
+  * Wolff, K. J.; Holmes (2011), ["Linguistic relativity"](https://web.archive.org/web/20130718073620/http://userwww.service.emory.edu/~kholme2/WHwires.pdf) (PDF), _Wiley Interdisciplinary Reviews: Cognitive Science_ , pp. 253–265, archived from [the original](http://userwww.service.emory.edu/~kholme2/WHwires.pdf) (PDF) on 18 July 2013
+
+## Further
+reading[[edit](/w/index.php?title=Linguistic_relativity&action=edit&section=33
+"Edit section: Further reading")]
+
+  * Alford, Dan Moonhawk, [_The Great Whorf Hypothesis Hoax_](http://www.hilgart.org/enformy/dma-Chap7.htm)
+  * Boroditsky, Lera, ["How Does Our Language Shape The Way We Think?"](http://edge.org/3rd_culture/boroditsky09/boroditsky09_index.html), _Edge_
+  * Boroditsky, Lera; Schmidt, Lauren; Phillips, Webb, ["Sex, syntax, and semantics"](http://lera.ucsd.edu/papers/gender.pdf) (PDF), _Language in Mind: Advances in the Study of Language and Thought_ , pp. 61–79
+  * Boroditsky, Lera; Segel, Edward (2011). ["Grammar in Art"](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3153848). _Frontiers in Psychology_. **1** : 244. [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.3389/fpsyg.2010.00244](//doi.org/10.3389%2Ffpsyg.2010.00244). [PMC](/wiki/PubMed_Central "PubMed Central") [3153848](//www.ncbi.nlm.nih.gov/pmc/articles/PMC3153848). [PMID](/wiki/PubMed_Identifier "PubMed Identifier") [21833297](//www.ncbi.nlm.nih.gov/pubmed/21833297).
+  * Deutscher, Guy (26 August 2010), ["Does Your Language Shape How You Think?"](https://www.nytimes.com/2010/08/29/magazine/29language-t.html), _The New York Times Magazine_
+  * Deutscher, Guy (2011), [_Through the Language Glass: Why the World Looks Different in Other Languages_](https://books.google.com/books?id=6NOjIzNZvosC), Arrow Books, [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-09-950557-0](/wiki/Special:BookSources/978-0-09-950557-0 "Special:BookSources/978-0-09-950557-0"), retrieved 17 March 2014
+  * Everett, Dan (2005), ["Cultural Constraints on Grammar and Cognition in Pirahã: Another Look at the Design Features of Human Language"](http://ldc.upenn.edu/myl/llog/EverettPiraha.pdf) (PDF), _Current Anthropology_ , **46** (4): 621, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1086/431525](//doi.org/10.1086%2F431525)
+  * Kay, Paul; Kempton, Willet (1984), "What is the Sapir–Whorf Hypothesis?", _American Anthropologist_ , **86** (1): 65–79, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.1525/aa.1984.86.1.02a00050](//doi.org/10.1525%2Faa.1984.86.1.02a00050)
+  * Kay, Paul; Chad K., McDaniel (1978), "The Linguistic Significance of Meanings of Basic Color Terms", _Language_ , **54** (3): 610–646, [doi](/wiki/Digital_object_identifier "Digital object identifier"):[10.2307/412789](//doi.org/10.2307%2F412789), [JSTOR](/wiki/JSTOR "JSTOR") [412789](//www.jstor.org/stable/412789)
+  * McWhorter, John H. (2016). _The Language Hoax: Why the World Looks the Same in Any Language_. Oxford University Press. [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0190468897](/wiki/Special:BookSources/978-0190468897 "Special:BookSources/978-0190468897").
+  * O'Neill, Sean (2008), _Cultural Contact and Linguistic Relativity Among the Indians of Northwestern California_ , University of Oklahoma Press, [ISBN](/wiki/International_Standard_Book_Number "International Standard Book Number") [978-0-8061-3922-7](/wiki/Special:BookSources/978-0-8061-3922-7 "Special:BookSources/978-0-8061-3922-7")
+  * Swoyer, Chris (2015), ["The Linguistic Relativity Hypothesis"](https://plato.stanford.edu/archives/sum2015/entries/relativism/supplement2.html), _Stanford Encyclopedia of Philosophy Archive_
+  * ["Which comes first, language or thought?"](http://www.news.harvard.edu/gazette/2004/07.22/21-think.html), _Harvard Gazette_ , 22 July 2004
+
+  * [v](/wiki/Template:Philosophy_of_language "Template:Philosophy of language")
+  * [t](/wiki/Template_talk:Philosophy_of_language "Template talk:Philosophy of language")
+  * [e](https://en.wikipedia.org/w/index.php?title=Template:Philosophy_of_language&action=edit)
+
+[Philosophy of language](/wiki/Philosophy_of_language "Philosophy of
+language")  
+  
+---  
+  
+[Index of language articles](/wiki/Index_of_language_articles "Index of
+language articles")  
+  
+[Philosophers](/wiki/List_of_philosophers_of_language "List of philosophers of
+language")|
+
+  * [Plato](/wiki/Plato "Plato") ( _[Cratylus](/wiki/Cratylus_\(dialogue\) "Cratylus \(dialogue\)")_ )
+  * [Gorgias](/wiki/Gorgias "Gorgias")
+  * [Confucius](/wiki/Confucius "Confucius")
+  * [Xunzi](/wiki/Xun_Kuang "Xun Kuang")
+  * [Aristotle](/wiki/Aristotle "Aristotle")
+  * [Stoics](/wiki/Stoicism "Stoicism")
+  * [Pyrrhonists](/wiki/Pyrrhonism "Pyrrhonism")
+  * [Scholasticism](/wiki/Scholasticism "Scholasticism")
+  * [Ibn Rushd](/wiki/Averroes "Averroes")
+  * [Ibn Khaldun](/wiki/Ibn_Khaldun "Ibn Khaldun")
+  * [Thomas Hobbes](/wiki/Thomas_Hobbes "Thomas Hobbes")
+  * [Gottfried Wilhelm Leibniz](/wiki/Gottfried_Wilhelm_Leibniz "Gottfried Wilhelm Leibniz")
+  * [Johann Herder](/wiki/Johann_Gottfried_Herder "Johann Gottfried Herder")
+  * [Ludwig Noiré](/wiki/Ludwig_Noir%C3%A9 "Ludwig Noiré")
+  * [Wilhelm von Humboldt](/wiki/Wilhelm_von_Humboldt "Wilhelm von Humboldt")
+  * [Fritz Mauthner](/wiki/Fritz_Mauthner "Fritz Mauthner")
+  * [Paul Ricœur](/wiki/Paul_Ric%C5%93ur "Paul Ricœur")
+  * [Ferdinand de Saussure](/wiki/Ferdinand_de_Saussure "Ferdinand de Saussure")
+  * [Gottlob Frege](/wiki/Gottlob_Frege "Gottlob Frege")
+  * [Franz Boas](/wiki/Franz_Boas "Franz Boas")
+  * [Paul Tillich](/wiki/Paul_Tillich "Paul Tillich")
+  * [Edward Sapir](/wiki/Edward_Sapir "Edward Sapir")
+  * [Leonard Bloomfield](/wiki/Leonard_Bloomfield "Leonard Bloomfield")
+  * [Zhuangzi](/wiki/Zhuang_Zhou "Zhuang Zhou")
+  * [Henri Bergson](/wiki/Henri_Bergson "Henri Bergson")
+  * [Lev Vygotsky](/wiki/Lev_Vygotsky "Lev Vygotsky")
+  * [Ludwig Wittgenstein](/wiki/Ludwig_Wittgenstein "Ludwig Wittgenstein")
+    * _[Philosophical Investigations](/wiki/Philosophical_Investigations "Philosophical Investigations")_
+    * _[Tractatus Logico-Philosophicus](/wiki/Tractatus_Logico-Philosophicus "Tractatus Logico-Philosophicus")_
+  * [Bertrand Russell](/wiki/Bertrand_Russell "Bertrand Russell")
+  * [Rudolf Carnap](/wiki/Rudolf_Carnap "Rudolf Carnap")
+  * [Jacques Derrida](/wiki/Jacques_Derrida "Jacques Derrida")
+    * _[Of Grammatology](/wiki/Of_Grammatology "Of Grammatology")_
+    * _[Limited Inc](/wiki/Limited_Inc "Limited Inc")_
+  * [Benjamin Lee Whorf](/wiki/Benjamin_Lee_Whorf "Benjamin Lee Whorf")
+  * [Gustav Bergmann](/wiki/Gustav_Bergmann "Gustav Bergmann")
+  * [J. L. Austin](/wiki/J._L._Austin "J. L. Austin")
+  * [Noam Chomsky](/wiki/Noam_Chomsky "Noam Chomsky")
+  * [Hans-Georg Gadamer](/wiki/Hans-Georg_Gadamer "Hans-Georg Gadamer")
+  * [Saul Kripke](/wiki/Saul_Kripke "Saul Kripke")
+  * [A. J. Ayer](/wiki/A._J._Ayer "A. J. Ayer")
+  * [G. E. M. Anscombe](/wiki/G._E._M._Anscombe "G. E. M. Anscombe")
+  * [Jaakko Hintikka](/wiki/Jaakko_Hintikka "Jaakko Hintikka")
+  * [Michael Dummett](/wiki/Michael_Dummett "Michael Dummett")
+  * [Donald Davidson](/wiki/Donald_Davidson_\(philosopher\) "Donald Davidson \(philosopher\)")
+  * [Roger Gibson](/wiki/Roger_Gibson "Roger Gibson")
+  * [Paul Grice](/wiki/Paul_Grice "Paul Grice")
+  * [Gilbert Ryle](/wiki/Gilbert_Ryle "Gilbert Ryle")
+  * [P. F. Strawson](/wiki/P._F._Strawson "P. F. Strawson")
+  * [Willard Van Orman Quine](/wiki/Willard_Van_Orman_Quine "Willard Van Orman Quine")
+  * [Hilary Putnam](/wiki/Hilary_Putnam "Hilary Putnam")
+  * [David Lewis](/wiki/David_Lewis_\(philosopher\) "David Lewis \(philosopher\)")
+  * [John Searle](/wiki/John_Searle "John Searle")
+  * [Joxe Azurmendi](/wiki/Joxe_Azurmendi "Joxe Azurmendi")
+  * [Scott Soames](/wiki/Scott_Soames "Scott Soames")
+  * [Stephen Yablo](/wiki/Stephen_Yablo "Stephen Yablo")
+  * [John Hawthorne](/wiki/John_Hawthorne "John Hawthorne")
+  * [Stephen Neale](/wiki/Stephen_Neale "Stephen Neale")
+  * [Paul Watzlawick](/wiki/Paul_Watzlawick "Paul Watzlawick")
+
+  
+  
+[Theories](/wiki/Category:Theories_of_language "Category:Theories of
+language")|
+
+  * [Causal theory of reference](/wiki/Causal_theory_of_reference "Causal theory of reference")
+  * [Contrast theory of meaning](/wiki/Contrastivism "Contrastivism")
+  * [Contrastivism](/wiki/Contrastivism "Contrastivism")
+  * [Conventionalism](/wiki/Conventionalism "Conventionalism")
+  * [Cratylism](/wiki/Cratylism "Cratylism")
+  * [Deconstruction](/wiki/Deconstruction "Deconstruction")
+  * [Descriptivism](/wiki/Descriptivist_theory_of_names "Descriptivist theory of names")
+  * [Direct reference theory](/wiki/Direct_reference_theory "Direct reference theory")
+  * [Dramatism](/wiki/Dramatism "Dramatism")
+  * [Expressivism](/wiki/Expressivism "Expressivism")
+  * [Linguistic determinism](/wiki/Linguistic_determinism "Linguistic determinism")
+  * [Mediated reference theory](/wiki/Mediated_reference_theory "Mediated reference theory")
+  * [Nominalism](/wiki/Nominalism "Nominalism")
+  * [Non-cognitivism](/wiki/Non-cognitivism "Non-cognitivism")
+  * [Phallogocentrism](/wiki/Phallogocentrism "Phallogocentrism")
+  * [Relevance theory](/wiki/Relevance_theory "Relevance theory")
+  * [Semantic externalism](/wiki/Semantic_externalism "Semantic externalism")
+  * [Semantic holism](/wiki/Semantic_holism "Semantic holism")
+  * [Structuralism](/wiki/Structuralism "Structuralism")
+  * [Supposition theory](/wiki/Supposition_theory "Supposition theory")
+  * [Symbiosism](/wiki/Symbiosism "Symbiosism")
+  * [Theological noncognitivism](/wiki/Theological_noncognitivism "Theological noncognitivism")
+  * [Theory of descriptions](/wiki/Theory_of_descriptions "Theory of descriptions") ([Definite description](/wiki/Definite_description "Definite description"))
+  * [Unilalianism](/wiki/Unilalianism "Unilalianism")
+  * [Verification theory](/wiki/Verificationism "Verificationism")
+
+  
+  
+Concepts|
+
+  * [Ambiguity](/wiki/Ambiguity "Ambiguity")
+  * [Cant](/wiki/Cant_\(language\) "Cant \(language\)")
+  * Linguistic relativity
+  * [Meaning](/wiki/Meaning_\(linguistics\) "Meaning \(linguistics\)")
+  * [Language](/wiki/Language "Language")
+  * [Truth-bearer](/wiki/Truth-bearer "Truth-bearer")
+  * [Proposition](/wiki/Proposition "Proposition")
+  * [Use–mention distinction](/wiki/Use%E2%80%93mention_distinction "Use–mention distinction")
+  * [Concept](/wiki/Concept "Concept")
+  * [Categories](/wiki/Categorization "Categorization")
+  * [Set](/wiki/Set_\(mathematics\) "Set \(mathematics\)")
+  * [Class](/wiki/Class_\(philosophy\) "Class \(philosophy\)")
+  * [Family resemblance](/wiki/Family_resemblance "Family resemblance")
+  * [Intension](/wiki/Intension "Intension")
+  * [Logical form](/wiki/Logical_form "Logical form")
+  * [Metalanguage](/wiki/Metalanguage "Metalanguage")
+  * [Mental representation](/wiki/Mental_representation "Mental representation")
+  * [Presupposition](/wiki/Presupposition "Presupposition")
+  * [Principle of compositionality](/wiki/Principle_of_compositionality "Principle of compositionality")
+  * [Property](/wiki/Property_\(philosophy\) "Property \(philosophy\)")
+  * [Sign](/wiki/Sign_\(semiotics\) "Sign \(semiotics\)")
+  * [Sense and reference](/wiki/Sense_and_reference "Sense and reference")
+  * [Speech act](/wiki/Speech_act "Speech act")
+  * [Symbol](/wiki/Symbol "Symbol")
+  * [Entity](/w/index.php?title=Entity_\(philosophy\)&action=edit&redlink=1 "Entity \(philosophy\) \(page does not exist\)")
+  * [Sentence](/wiki/Sentence_\(linguistics\) "Sentence \(linguistics\)")
+  * [Statement](/wiki/Statement_\(logic\) "Statement \(logic\)")
+  * **[more...](/wiki/Index_of_philosophy_of_language_articles "Index of philosophy of language articles")**
+
+  
+  
+Related articles|
+
+  * [Analytic philosophy](/wiki/Analytic_philosophy "Analytic philosophy")
+  * [Philosophy of information](/wiki/Philosophy_of_information "Philosophy of information")
+  * [Philosophical logic](/wiki/Philosophical_logic "Philosophical logic")
+  * [Linguistics](/wiki/Linguistics "Linguistics")
+  * [Pragmatics](/wiki/Pragmatics "Pragmatics")
+  * [Rhetoric](/wiki/Rhetoric "Rhetoric")
+  * [Semantics](/wiki/Semantics "Semantics")
+  * [Formal semantics](/wiki/Formal_semantics_\(linguistics\) "Formal semantics \(linguistics\)")
+  * [Semiotics](/wiki/Semiotics "Semiotics")
+
+  
+  
+  * [Category](/wiki/Category:Philosophy_of_language "Category:Philosophy of language")
+  * [Task Force](/wiki/Wikipedia:WikiProject_Philosophy/Language "Wikipedia:WikiProject Philosophy/Language")
+  * [Discussion](/wiki/Wikipedia_talk:WikiProject_Philosophy "Wikipedia talk:WikiProject Philosophy")
+
+  
+  
+[Authority control](/wiki/Help:Authority_control "Help:Authority control")
+[![Edit this at
+Wikidata](//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-
+ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-
+progressive.svg.png)](https://www.wikidata.org/wiki/Q179677 "Edit this at
+Wikidata")|
+
+  * [GND](/wiki/Integrated_Authority_File "Integrated Authority File"): [4128116-0](https://d-nb.info/gnd/4128116-0)
+  * [LCCN](/wiki/Library_of_Congress_Control_Number "Library of Congress Control Number"): [sh85117449](https://id.loc.gov/authorities/subjects/sh85117449)
+
+  
+  
+---|---  
+  
+![](//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+
+Retrieved from
+"[https://en.wikipedia.org/w/index.php?title=Linguistic_relativity&oldid=919940461](https://en.wikipedia.org/w/index.php?title=Linguistic_relativity&oldid=919940461)"
+
+[Categories](/wiki/Help:Category "Help:Category"):
+
+  * [Psycholinguistics](/wiki/Category:Psycholinguistics "Category:Psycholinguistics")
+  * [Relativism](/wiki/Category:Relativism "Category:Relativism")
+  * [Arguments in philosophy of mind](/wiki/Category:Arguments_in_philosophy_of_mind "Category:Arguments in philosophy of mind")
+  * [Hypotheses](/wiki/Category:Hypotheses "Category:Hypotheses")
+  * [Anthropological linguistics](/wiki/Category:Anthropological_linguistics "Category:Anthropological linguistics")
+  * [Linguistic universals](/wiki/Category:Linguistic_universals "Category:Linguistic universals")
+  * [Language comparison](/wiki/Category:Language_comparison "Category:Language comparison")
+  * [Linguistic hypotheses](/wiki/Category:Linguistic_hypotheses "Category:Linguistic hypotheses")
+  * [Cognition](/wiki/Category:Cognition "Category:Cognition")
+
+Hidden categories:
+
+  * [CS1 errors: missing periodical](/wiki/Category:CS1_errors:_missing_periodical "Category:CS1 errors: missing periodical")
+  * [Use American English from January 2019](/wiki/Category:Use_American_English_from_January_2019 "Category:Use American English from January 2019")
+  * [All Wikipedia articles written in American English](/wiki/Category:All_Wikipedia_articles_written_in_American_English "Category:All Wikipedia articles written in American English")
+  * [Articles with short description](/wiki/Category:Articles_with_short_description "Category:Articles with short description")
+  * [Use mdy dates from January 2019](/wiki/Category:Use_mdy_dates_from_January_2019 "Category:Use mdy dates from January 2019")
+  * [Wikipedia articles needing clarification from May 2017](/wiki/Category:Wikipedia_articles_needing_clarification_from_May_2017 "Category:Wikipedia articles needing clarification from May 2017")
+  * [All articles with unsourced statements](/wiki/Category:All_articles_with_unsourced_statements "Category:All articles with unsourced statements")
+  * [Articles with unsourced statements from May 2017](/wiki/Category:Articles_with_unsourced_statements_from_May_2017 "Category:Articles with unsourced statements from May 2017")
+  * [Articles with unsourced statements from October 2018](/wiki/Category:Articles_with_unsourced_statements_from_October_2018 "Category:Articles with unsourced statements from October 2018")
+  * [Articles with unsourced statements from December 2016](/wiki/Category:Articles_with_unsourced_statements_from_December_2016 "Category:Articles with unsourced statements from December 2016")
+  * [All pages needing factual verification](/wiki/Category:All_pages_needing_factual_verification "Category:All pages needing factual verification")
+  * [Wikipedia articles needing factual verification from July 2019](/wiki/Category:Wikipedia_articles_needing_factual_verification_from_July_2019 "Category:Wikipedia articles needing factual verification from July 2019")
+  * [Use dmy dates from November 2010](/wiki/Category:Use_dmy_dates_from_November_2010 "Category:Use dmy dates from November 2010")
+  * [Wikipedia articles with GND identifiers](/wiki/Category:Wikipedia_articles_with_GND_identifiers "Category:Wikipedia articles with GND identifiers")
+  * [Wikipedia articles with LCCN identifiers](/wiki/Category:Wikipedia_articles_with_LCCN_identifiers "Category:Wikipedia articles with LCCN identifiers")
+
+## Navigation menu
+
+### Personal tools
+
+  * Not logged in
+  * [Talk](/wiki/Special:MyTalk "Discussion about edits from this IP address \[n\]")
+  * [Contributions](/wiki/Special:MyContributions "A list of edits made from this IP address \[y\]")
+  * [Create account](/w/index.php?title=Special:CreateAccount&returnto=Linguistic+relativity "You are encouraged to create an account and log in; however, it is not mandatory")
+  * [Log in](/w/index.php?title=Special:UserLogin&returnto=Linguistic+relativity "You're encouraged to log in; however, it's not mandatory. \[o\]")
+
+### Namespaces
+
+  * [Article](/wiki/Linguistic_relativity "View the content page \[c\]")
+  * [Talk](/wiki/Talk:Linguistic_relativity "Discussion about the content page \[t\]")
+
+###  Variants
+
+### Views
+
+  * [Read](/wiki/Linguistic_relativity)
+  * [Edit](/w/index.php?title=Linguistic_relativity&action=edit "Edit this page \[e\]")
+  * [View history](/w/index.php?title=Linguistic_relativity&action=history "Past revisions of this page \[h\]")
+
+### More
+
+###  Search
+
+[](/wiki/Main_Page "Visit the main page")
+
+### Navigation
+
+  * [Main page](/wiki/Main_Page "Visit the main page \[z\]")
+  * [Contents](/wiki/Portal:Contents "Guides to browsing Wikipedia")
+  * [Featured content](/wiki/Portal:Featured_content "Featured content – the best of Wikipedia")
+  * [Current events](/wiki/Portal:Current_events "Find background information on current events")
+  * [Random article](/wiki/Special:Random "Load a random article \[x\]")
+  * [Donate to Wikipedia](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en "Support us")
+  * [Wikipedia store](//shop.wikimedia.org "Visit the Wikipedia store")
+
+### Interaction
+
+  * [Help](/wiki/Help:Contents "Guidance on how to use and edit Wikipedia")
+  * [About Wikipedia](/wiki/Wikipedia:About "Find out about Wikipedia")
+  * [Community portal](/wiki/Wikipedia:Community_portal "About the project, what you can do, where to find things")
+  * [Recent changes](/wiki/Special:RecentChanges "A list of recent changes in the wiki \[r\]")
+  * [Contact page](//en.wikipedia.org/wiki/Wikipedia:Contact_us "How to contact Wikipedia")
+
+### Tools
+
+  * [What links here](/wiki/Special:WhatLinksHere/Linguistic_relativity "List of all English Wikipedia pages containing links to this page \[j\]")
+  * [Related changes](/wiki/Special:RecentChangesLinked/Linguistic_relativity "Recent changes in pages linked from this page \[k\]")
+  * [Upload file](/wiki/Wikipedia:File_Upload_Wizard "Upload files \[u\]")
+  * [Special pages](/wiki/Special:SpecialPages "A list of all special pages \[q\]")
+  * [Permanent link](/w/index.php?title=Linguistic_relativity&oldid=919940461 "Permanent link to this revision of the page")
+  * [Page information](/w/index.php?title=Linguistic_relativity&action=info "More information about this page")
+  * [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q179677 "Link to connected data repository item \[g\]")
+  * [Cite this page](/w/index.php?title=Special:CiteThisPage&page=Linguistic_relativity&id=919940461 "Information on how to cite this page")
+
+### Print/export
+
+  * [Create a book](/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Linguistic+relativity)
+  * [Download as PDF](/w/index.php?title=Special:ElectronPdf&page=Linguistic+relativity&action=show-download-screen)
+  * [Printable version](/w/index.php?title=Linguistic_relativity&printable=yes "Printable version of this page \[p\]")
+
+### Languages
+
+  * [العربية](https://ar.wikipedia.org/wiki/%D9%86%D8%B3%D8%A8%D9%8A%D8%A9_%D9%84%D8%BA%D9%88%D9%8A%D8%A9 "نسبية لغوية – Arabic")
+  * [Беларуская (тарашкевіца)‎](https://be-x-old.wikipedia.org/wiki/%D0%93%D1%96%D0%BF%D0%BE%D1%82%D1%8D%D0%B7%D0%B0_%D0%A1%D1%8D%D0%BF%D1%96%D1%80%D0%B0-%D0%8E%D0%BE%D1%80%D1%84%D0%B0 "Гіпотэза Сэпіра-Ўорфа – Belarusian \(Taraškievica orthography\)")
+  * [Български](https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0_%D0%BD%D0%B0_%D0%A1%D0%B0%D0%BF%D0%B8%D1%80_%E2%80%94_%D0%A3%D0%BE%D1%80%D1%84 "Хипотеза на Сапир — Уорф – Bulgarian")
+  * [Brezhoneg](https://br.wikipedia.org/wiki/Damkan_Sapir_ha_Whorf "Damkan Sapir ha Whorf – Breton")
+  * [Català](https://ca.wikipedia.org/wiki/Hip%C3%B2tesi_de_Sapir-Whorf "Hipòtesi de Sapir-Whorf – Catalan")
+  * [Čeština](https://cs.wikipedia.org/wiki/Sapirova%E2%80%93Whorfova_hypot%C3%A9za "Sapirova–Whorfova hypotéza – Czech")
+  * [Cymraeg](https://cy.wikipedia.org/wiki/Damcaniaeth_Sapir-Whorf "Damcaniaeth Sapir-Whorf – Welsh")
+  * [Dansk](https://da.wikipedia.org/wiki/Sapir-Whorf-hypotesen "Sapir-Whorf-hypotesen – Danish")
+  * [Deutsch](https://de.wikipedia.org/wiki/Sapir-Whorf-Hypothese "Sapir-Whorf-Hypothese – German")
+  * [Eesti](https://et.wikipedia.org/wiki/Sapiri-Whorfi_h%C3%BCpotees "Sapiri-Whorfi hüpotees – Estonian")
+  * [Ελληνικά](https://el.wikipedia.org/wiki/%CE%93%CE%BB%CF%89%CF%83%CF%83%CE%B9%CE%BA%CE%AE_%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CF%8C%CF%84%CE%B7%CF%84%CE%B1 "Γλωσσική σχετικότητα – Greek")
+  * [Español](https://es.wikipedia.org/wiki/Hip%C3%B3tesis_de_Sapir-Whorf "Hipótesis de Sapir-Whorf – Spanish")
+  * [Esperanto](https://eo.wikipedia.org/wiki/Hipotezo_de_Sapir-Whorf "Hipotezo de Sapir-Whorf – Esperanto")
+  * [فارسی](https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%B6%DB%8C%D9%87_%D8%B3%D8%A7%D9%BE%DB%8C%D8%B1-%D9%88%D9%88%D8%B1%D9%81 "فرضیه ساپیر-وورف – Persian")
+  * [Français](https://fr.wikipedia.org/wiki/Hypoth%C3%A8se_de_Sapir-Whorf "Hypothèse de Sapir-Whorf – French")
+  * [한국어](https://ko.wikipedia.org/wiki/%EC%82%AC%ED%94%BC%EC%96%B4-%EC%9B%8C%ED%94%84_%EA%B0%80%EC%84%A4 "사피어-워프 가설 – Korean")
+  * [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A4%BE%E0%A4%B7%E0%A4%BE%E0%A4%88_%E0%A4%B8%E0%A4%BE%E0%A4%AA%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4%E0%A4%BE "भाषाई सापेक्षता – Hindi")
+  * [Ido](https://io.wikipedia.org/wiki/Hipotezo_di_Sapir-Whorf "Hipotezo di Sapir-Whorf – Ido")
+  * [Bahasa Indonesia](https://id.wikipedia.org/wiki/Hipotesis_Sapir-Whorf "Hipotesis Sapir-Whorf – Indonesian")
+  * [Interlingua](https://ia.wikipedia.org/wiki/Hypothese_de_Sapir-Whorf "Hypothese de Sapir-Whorf – Interlingua")
+  * [Íslenska](https://is.wikipedia.org/wiki/Sapir_-_Whorf_tilg%C3%A1tan "Sapir - Whorf tilgátan – Icelandic")
+  * [Italiano](https://it.wikipedia.org/wiki/Ipotesi_di_Sapir-Whorf "Ipotesi di Sapir-Whorf – Italian")
+  * [עברית](https://he.wikipedia.org/wiki/%D7%94%D7%99%D7%A4%D7%95%D7%AA%D7%96%D7%AA_%D7%A1%D7%A4%D7%99%D7%A8-%D7%95%D7%95%D7%A8%D7%A3 "היפותזת ספיר-וורף – Hebrew")
+  * [ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%AD%E0%B2%BE%E0%B2%B7%E0%B2%BF%E0%B2%95_%E0%B2%B8%E0%B2%BE%E0%B2%AA%E0%B3%87%E0%B2%95%E0%B3%8D%E0%B2%B7%E0%B2%A4%E0%B3%86 "ಭಾಷಿಕ ಸಾಪೇಕ್ಷತೆ – Kannada")
+  * [ქართული](https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%94%E1%83%9E%E1%83%98%E1%83%A0-%E1%83%A3%E1%83%9D%E1%83%A0%E1%83%A4%E1%83%98%E1%83%A1_%E1%83%B0%E1%83%98%E1%83%9E%E1%83%9D%E1%83%97%E1%83%94%E1%83%96%E1%83%90 "სეპირ-უორფის ჰიპოთეზა – Georgian")
+  * [Қазақша](https://kk.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BF%D0%B8%D1%80_%E2%80%94_%D0%A3%D0%BE%D1%80%D1%84_%D0%B1%D0%BE%D0%BB%D0%B6%D0%B0%D0%BC%D1%8B "Сепир — Уорф болжамы – Kazakh")
+  * [Latviešu](https://lv.wikipedia.org/wiki/Lingvistisk%C4%81s_relativit%C4%81tes_teorija "Lingvistiskās relativitātes teorija – Latvian")
+  * [Magyar](https://hu.wikipedia.org/wiki/Sapir%E2%80%93Whorf-hipot%C3%A9zis "Sapir–Whorf-hipotézis – Hungarian")
+  * [Mìng-dĕ̤ng-ngṳ̄](https://cdo.wikipedia.org/wiki/Ng%E1%B9%B3%CC%84-ngi%C3%B2ng_su%C5%8Fng-d%C3%B3%CC%A4i-l%C3%A2ung "Ngṳ̄-ngiòng suŏng-dó̤i-lâung – Min Dong Chinese")
+  * [Nederlands](https://nl.wikipedia.org/wiki/Sapir-Whorfhypothese "Sapir-Whorfhypothese – Dutch")
+  * [日本語](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%94%E3%82%A2%EF%BC%9D%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%95%E3%81%AE%E4%BB%AE%E8%AA%AC "サピア＝ウォーフの仮説 – Japanese")
+  * [Norsk](https://no.wikipedia.org/wiki/Sapir%E2%80%93Whorf-hypotesen "Sapir–Whorf-hypotesen – Norwegian")
+  * [Norsk nynorsk](https://nn.wikipedia.org/wiki/Sapir-Whorf-hypotesen "Sapir-Whorf-hypotesen – Norwegian Nynorsk")
+  * [Polski](https://pl.wikipedia.org/wiki/Hipoteza_Sapira-Whorfa "Hipoteza Sapira-Whorfa – Polish")
+  * [Português](https://pt.wikipedia.org/wiki/Hip%C3%B3tese_de_Sapir-Whorf "Hipótese de Sapir-Whorf – Portuguese")
+  * [Română](https://ro.wikipedia.org/wiki/Ipoteza_Sapir-Whorf "Ipoteza Sapir-Whorf – Romanian")
+  * [Русский](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0_%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8 "Гипотеза лингвистической относительности – Russian")
+  * [Seeltersk](https://stq.wikipedia.org/wiki/Sapir-Whorf_Hypothese "Sapir-Whorf Hypothese – Saterland Frisian")
+  * [Simple English](https://simple.wikipedia.org/wiki/Sapir-Whorf_hypothesis "Sapir-Whorf hypothesis – Simple English")
+  * [Slovenčina](https://sk.wikipedia.org/wiki/Sapirova-Whorfova_hypot%C3%A9za "Sapirova-Whorfova hypotéza – Slovak")
+  * [Slovenščina](https://sl.wikipedia.org/wiki/Sapir-Whorfova_hipoteza "Sapir-Whorfova hipoteza – Slovenian")
+  * [Српски / srpski](https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BF%D0%B8%D1%80%E2%80%94%D0%92%D0%BE%D1%80%D1%84%D0%BE%D0%B2%D0%B0_%D1%85%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0 "Сапир—Ворфова хипотеза – Serbian")
+  * [Suomi](https://fi.wikipedia.org/wiki/Sapirin%E2%80%93Whorfin_hypoteesi "Sapirin–Whorfin hypoteesi – Finnish")
+  * [Svenska](https://sv.wikipedia.org/wiki/Sapir%E2%80%93Whorf-hypotesen "Sapir–Whorf-hypotesen – Swedish")
+  * [Türkçe](https://tr.wikipedia.org/wiki/Sapir-Whorf_hipotezi "Sapir-Whorf hipotezi – Turkish")
+  * [Українська](https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0_%D0%A1%D0%B5%D0%BF%D1%96%D1%80%D0%B0_%E2%80%94_%D0%92%D0%BE%D1%80%D1%84%D0%B0 "Гіпотеза Сепіра — Ворфа – Ukrainian")
+  * [Tiếng Việt](https://vi.wikipedia.org/wiki/Gi%E1%BA%A3_thuy%E1%BA%BFt_Sapir-Whorf "Giả thuyết Sapir-Whorf – Vietnamese")
+  * [中文](https://zh.wikipedia.org/wiki/%E8%AA%9E%E8%A8%80%E7%9B%B8%E5%B0%8D%E8%AB%96 "語言相對論 – Chinese")
+
+[Edit
+links](https://www.wikidata.org/wiki/Special:EntityPage/Q179677#sitelinks-
+wikipedia "Edit interlanguage links")
+
+  * This page was last edited on 6 October 2019, at 19:46 (UTC).
+  * Text is available under the [Creative Commons Attribution-ShareAlike License](//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)[](//creativecommons.org/licenses/by-sa/3.0/); additional terms may apply. By using this site, you agree to the [Terms of Use](//foundation.wikimedia.org/wiki/Terms_of_Use) and [Privacy Policy](//foundation.wikimedia.org/wiki/Privacy_policy). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](//www.wikimediafoundation.org/), a non-profit organization.
+
+  * [Privacy policy](https://foundation.wikimedia.org/wiki/Privacy_policy "wmf:Privacy policy")
+  * [About Wikipedia](/wiki/Wikipedia:About "Wikipedia:About")
+  * [Disclaimers](/wiki/Wikipedia:General_disclaimer "Wikipedia:General disclaimer")
+  * [Contact Wikipedia](//en.wikipedia.org/wiki/Wikipedia:Contact_us)
+  * [Developers](https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute)
+  * [Cookie statement](https://foundation.wikimedia.org/wiki/Cookie_statement)
+  * [Mobile view](//en.m.wikipedia.org/w/index.php?title=Linguistic_relativity&mobileaction=toggle_view_mobile)
+
+  * [![Wikimedia Foundation](/static/images/wikimedia-button.png)](https://wikimediafoundation.org/)
+  * [![Powered by MediaWiki](/static/images/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+
+  *[v]: View this template
+  *[t]: Discuss this template
+  *[e]: Edit this template
+
