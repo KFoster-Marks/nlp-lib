@@ -20,6 +20,11 @@ class VocabTestSuite(unittest.TestCase):
         src.write_url_html_to_file(url, file_name)
         assert os.path.exists(file_name) == True
 
+        url = 'https://thefinancialdiet.com/7-gentle-but-fulfilling-ways-to-rejuvenate-your-life-this-fall/'
+        file_name = 'tests/__test_files__/financial_diet.txt'
+        src.write_url_html_to_file(url, file_name)
+        assert os.path.exists(file_name) == True
+
     # def test_get_text_match(self):
     #     text = ''
 
