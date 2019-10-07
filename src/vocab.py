@@ -42,3 +42,13 @@ def get_raw_part_of_speech_counts(text):
     pos_counts = doc.count_by(spacy.attrs.POS)
 
     return pos_counts
+
+def get_part_of_speech_counts(text):
+    pos_dict = {}
+    doc = nlp(text)
+    raw_counts = get_raw_part_of_speech_counts(text)
+
+    for pos, count in raw_counts.items():
+        pos_dict[doc.vocab[pos].text] = count
+
+    return pos_dict

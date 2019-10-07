@@ -12,4 +12,5 @@ from .visualize import render_dependency_html
 from .vocab import check_is_stop_word
 from .vocab import write_url_html_to_file
 from .vocab import get_text_match
+from .vocab import get_part_of_speech_counts
 from .vocab import get_raw_part_of_speech_counts

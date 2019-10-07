@@ -46,5 +46,10 @@ class VocabTestSuite(unittest.TestCase):
         result = src.get_raw_part_of_speech_counts(text)
         assert result == {92: 1, 100: 1, 95: 1, 86: 2, 97: 2, 84: 1}
 
+    def test_get_part_of_speech_counts(self):
+        text = 'Reading makes me very, very nervous.'
+        result = src.get_part_of_speech_counts(text)
+        result = {'NOUN': 1, 'VERB': 1, 'PRON': 1, 'ADV': 2, 'PUNCT': 2, 'ADJ': 1}
+
 if __name__ == '__main__':
     unittest.main()
