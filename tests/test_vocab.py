@@ -37,5 +37,14 @@ class VocabTestSuite(unittest.TestCase):
         result2 = src.get_text_match(text, ['life'], 5, 5)
         assert result2[0] == 'don’t_ have your life together? I’ve taken'
 
+    def test_get_raw_part_of_speech_counts(self):
+        text = 'Natural language processing presents some of the earliest and most challenging problems computer scientists have attempted to solve.'
+        result = src.get_raw_part_of_speech_counts(text)
+        assert result == {84: 3, 92: 5, 100: 4, 90: 2, 85: 1, 89: 1, 86: 1, 94: 1, 97: 1}
+
+        text = 'Reading makes me very, very nervous.'
+        result = src.get_raw_part_of_speech_counts(text)
+        assert result == {92: 1, 100: 1, 95: 1, 86: 2, 97: 2, 84: 1}
+
 if __name__ == '__main__':
     unittest.main()

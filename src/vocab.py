@@ -37,3 +37,8 @@ def get_text_match(input_text, phrase_list, start_context, end_context):
 
     return text_matches
 
+def get_raw_part_of_speech_counts(text):
+    doc = nlp(text)
+    pos_counts = doc.count_by(spacy.attrs.POS)
+
+    return pos_counts
