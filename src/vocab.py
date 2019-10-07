@@ -25,12 +25,16 @@ def write_url_html_to_file(url, file_name):
         print('File already exists.')
 
 def get_text_match(input_text, phrase_list, start_context, end_context):
+    text_matches = []
     doc = nlp(input_text)
     phrase_patterns = [nlp(text) for text in phrase_list]
     matcher.add('TestMatcher', None, *phrase_patterns)
     found_matches = matcher(doc)
-    print(found_matches)
 
     for match_id, start, end in found_matches:
         span = doc[start-start_context:end+end_context]
-        print(match_id, span.text)
+        text_matches.append(span.text)
+
+    print(text_matches)
+    return text_matches
+

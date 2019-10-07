@@ -31,7 +31,9 @@ class VocabTestSuite(unittest.TestCase):
     def test_get_text_match(self):
         file = open('tests/__test_files__/financial_diet.txt', 'r')
         text = file.read()
-        src.get_text_match(text, ['you\’re', 'your'], 5, 5)
+        result = src.get_text_match(text, ['totally'], 5, 5)
+        assert result == ['you mean you haven’t totally changed your career, launched']
+        # SMALL APP IDEA: textual analysis of web pages!!! user inputs webpage, spit back some textual analysis
 
 if __name__ == '__main__':
     unittest.main()
