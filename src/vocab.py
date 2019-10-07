@@ -35,6 +35,5 @@ def get_text_match(input_text, phrase_list, start_context, end_context):
         span = doc[start-start_context:end+end_context]
         text_matches.append(span.text)
 
-    print(text_matches)
     return text_matches
 

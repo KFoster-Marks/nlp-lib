@@ -33,7 +33,9 @@ class VocabTestSuite(unittest.TestCase):
         text = file.read()
         result = src.get_text_match(text, ['totally'], 5, 5)
         assert result == ['you mean you haven’t totally changed your career, launched']
-        # SMALL APP IDEA: textual analysis of web pages!!! user inputs webpage, spit back some textual analysis
+
+        result2 = src.get_text_match(text, ['life'], 5, 5)
+        assert result2[0] == 'don’t_ have your life together? I’ve taken'
 
 if __name__ == '__main__':
     unittest.main()
