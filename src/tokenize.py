@@ -1,11 +1,18 @@
 # -*- coding: utf-8 -*-
 import spacy
 from spacy import displacy
+from spacy.tokens import Span
 
 nlp = spacy.load("en_core_web_sm")
 
 def logUtil(text):
     print(text, end=' | ')
+
+def add_named_entity(doc, entity_label):
+    # The spacy NER list will not include all named entities; we may need to add some manually in order to achieve the desired textual analysis.
+    entity_hash = doc.vocab.strings[entity_label]
+    new_ent = Span(doc,0,1,label=entity_hash)
+    doc.ents = list(doc.ents) + [new_ent]
 
 def get_tokens(text):
     tokens = []

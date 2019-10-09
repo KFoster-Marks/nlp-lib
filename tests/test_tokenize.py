@@ -7,6 +7,9 @@ import unittest
 class TokenizeTestSuite(unittest.TestCase):
     """Advanced test cases."""
 
+    def test_add_named_entity(self):
+        result = src.add_named_entity
+
     def test_get_tokens(self):
         text = 'Denver is the biggest city in Colorado.'
         assert src.get_tokens(text) == ['Denver', 'is', 'the', 'biggest', 'city', 'in', 'Colorado', '.']
