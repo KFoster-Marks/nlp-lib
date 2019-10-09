@@ -8,11 +8,18 @@ nlp = spacy.load("en_core_web_sm")
 def logUtil(text):
     print(text, end=' | ')
 
-def add_named_entity(doc, entity_label):
+def add_named_entity(doc, start_index, end_index, entity_label):
     # The spacy NER list will not include all named entities; we may need to add some manually in order to achieve the desired textual analysis.
+
+
+    # We need to first check if it already exists!!!
     entity_hash = doc.vocab.strings[entity_label]
-    new_ent = Span(doc,0,1,label=entity_hash)
+    new_ent = Span(doc, start_index, end_index, label=entity_hash)
+    print('before: ', doc.ents)
     doc.ents = list(doc.ents) + [new_ent]
+    print('after: ', doc.ents)
+
+    return doc
 
 def get_tokens(text):
     tokens = []

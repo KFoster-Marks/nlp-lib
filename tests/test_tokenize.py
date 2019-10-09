@@ -3,12 +3,21 @@
 from .context import src
 
 import unittest
+import spacy
+nlp = spacy.load("en_core_web_sm")
 
 class TokenizeTestSuite(unittest.TestCase):
     """Advanced test cases."""
 
     def test_add_named_entity(self):
-        result = src.add_named_entity
+        text = "Krissy is the best aunt in the world."
+        doc = nlp(text)
+        start_index = 0
+        end_index = 2
+        entity_type = "PERSON"
+        entities = src.get_named_entities_metadata(text)
+        print(entities)
+        # src.add_named_entity(doc, start_index, end_index, entity_type)
 
     def test_get_tokens(self):
         text = 'Denver is the biggest city in Colorado.'
