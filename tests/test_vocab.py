@@ -49,7 +49,7 @@ class VocabTestSuite(unittest.TestCase):
     def test_get_part_of_speech_counts(self):
         text = 'Reading makes me very, very nervous.'
         result = src.get_part_of_speech_counts(text)
-        result = {'NOUN': 1, 'VERB': 1, 'PRON': 1, 'ADV': 2, 'PUNCT': 2, 'ADJ': 1}
+        assert result == {'NOUN': 1, 'VERB': 1, 'PRON': 1, 'ADV': 2, 'PUNCT': 2, 'ADJ': 1}
 
 if __name__ == '__main__':
     unittest.main()
