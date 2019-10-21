@@ -17,7 +17,7 @@ class TokenizeTestSuite(unittest.TestCase):
         entity_type = "PERSON"
         entities = src.get_named_entities_metadata(text)
         print(entities)
-        # src.add_named_entity(doc, start_index, end_index, entity_type)
+        src.add_named_entity(doc, start_index, end_index, entity_type)
 
     def test_get_tokens(self):
         text = 'Denver is the biggest city in Colorado.'
