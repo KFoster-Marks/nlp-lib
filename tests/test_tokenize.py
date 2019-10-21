@@ -16,8 +16,8 @@ class TokenizeTestSuite(unittest.TestCase):
         end_index = 2
         entity_type = "PERSON"
         entities = src.get_named_entities_metadata(text)
-        print(entities)
-        src.add_named_entity(doc, start_index, end_index, entity_type)
+        # print(entities)
+        # src.add_named_entity(doc, start_index, end_index, entity_type)
 
     def test_get_tokens(self):
         text = 'Denver is the biggest city in Colorado.'
@@ -32,6 +32,9 @@ class TokenizeTestSuite(unittest.TestCase):
     def test_get_named_entities(self):
         text = 'Ms. Harris ordered the National Guard to the Canadian border.'
         assert src.get_named_entities(text) == ['Harris', 'the National Guard', 'Canadian']
+
+        text2 = 'Nova Scotia and Cape Breton Island are wonderful places to get away from the U.S. vacation crowds.'
+        assert src.get_named_entities(text2) == ['Nova Scotia', 'Cape Breton Island', 'U.S.']
 
     def test_get_named_entities_metadata(self):
         text = 'Ms. Harris ordered the National Guard to the Canadian border.'
