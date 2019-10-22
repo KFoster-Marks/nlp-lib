@@ -57,6 +57,11 @@ def get_named_entity_label_explanations(labels):
 
     return explanations
 
+def get_named_entities_by_label(text, label):
+    doc = nlp(text)
+
+    return [ent.text for ent in doc.ents if ent.label_ == label]
+
 def get_base_noun_phrases(text):
     noun_phrases = []
     doc = nlp(text)

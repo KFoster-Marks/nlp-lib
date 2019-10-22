@@ -47,6 +47,11 @@ class TokenizeTestSuite(unittest.TestCase):
         labels = ['PERSON', 'MONEY', 'ORG', 'NORP']
         assert src.get_named_entity_label_explanations(labels) == [{'label': 'PERSON', 'explanation': 'People, including fictional'}, {'label': 'MONEY', 'explanation': 'Monetary values, including unit'}, {'label': 'ORG', 'explanation': 'Companies, agencies, institutions, etc.'}, {'label': 'NORP', 'explanation': 'Nationalities or religious or political groups'}]
 
+    def test_get_named_entities_by_label(self):
+        label = 'MONEY'
+        text = 'I have four dollars in my pocket, which is about a million dollars less than I need to buy a house in this state.'
+        assert src.get_named_entities_by_label(text, label) == ['four dollars', 'about a million dollars']
+
     def test_get_noun_phrases(self):
         text = 'The doughnuts fell into my belly with disconcerting speed.'
         assert src.get_base_noun_phrases(text) == ['The doughnuts', 'my belly', 'disconcerting speed']
