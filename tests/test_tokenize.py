@@ -52,6 +52,10 @@ class TokenizeTestSuite(unittest.TestCase):
         text = 'I have four dollars in my pocket, which is about a million dollars less than I need to buy a house in this state.'
         assert src.get_named_entities_by_label(text, label) == ['four dollars', 'about a million dollars']
 
+        label2 = 'LANGUAGE'
+        text2 = 'Many people believe that English is harder to learn than Spanish.'
+        assert src.get_named_entities_by_label(text2, label2) == ['English', 'Spanish']
+
     def test_get_noun_phrases(self):
         text = 'The doughnuts fell into my belly with disconcerting speed.'
         assert src.get_base_noun_phrases(text) == ['The doughnuts', 'my belly', 'disconcerting speed']
