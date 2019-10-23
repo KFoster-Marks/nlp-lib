@@ -1,11 +1,12 @@
 from .lemmatize import get_lemmas
 
-from .tokenize import add_named_entity
+from .entities import add_named_entity
+from .entities import get_named_entities
+from .entities import get_named_entities_metadata
+from .entities import get_named_entity_label_explanations
+from .entities import get_named_entities_by_label
+
 from .tokenize import get_tokens
-from .tokenize import get_named_entities
-from .tokenize import get_named_entities_metadata
-from .tokenize import get_named_entity_label_explanations
-from .tokenize import get_named_entities_by_label
 from .tokenize import get_base_noun_phrases
 
 from .visualize import serve_dependency_viz
