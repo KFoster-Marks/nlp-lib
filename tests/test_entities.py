@@ -58,5 +58,9 @@ class EntitiesTestSuite(unittest.TestCase):
         text = 'I have visited many countries. In 2008, I moved to South Korea. In 2009, I traveled to Chile and Ecuador for a few months. In the past five years, I have visited several provinces in Canada.'
         assert src.get_number_of_named_entities_by_label(text, label) == 4
 
+        label2 = 'TIME'
+        text2 = 'I did many things yesterday. In the morning, I ate breakfast. At 9 a.m., I walked to campus. At noon, I ate lunch, and at 3 p.m. I attended my final class. At 6 p.m. I ate dinner with my roommates.'
+        assert src.get_number_of_named_entities_by_label(text2, label2) == 5
+
 if __name__ == '__main__':
     unittest.main()
