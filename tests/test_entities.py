@@ -18,6 +18,14 @@ class EntitiesTestSuite(unittest.TestCase):
 
         assert src.add_named_entity(doc, start_index, end_index, entity_type) == 'Entity "Paisley" successfully added to type PERSON.'
 
+        text2 = "Cape Breton International Seaport"
+        doc2 = nlp(text2)
+        start_index2 = 0
+        end_index2 = 4
+        entity_type2 = "FAC"
+
+        assert src.add_named_entity(doc2, start_index2, end_index2, entity_type2) == 'Entity "Cape Breton International Seaport" successfully added to type FAC.'
+
     def test_get_named_entities(self):
         text = 'Ms. Harris ordered the National Guard to the Canadian border.'
         assert src.get_named_entities(text) == ['Harris', 'the National Guard', 'Canadian']
