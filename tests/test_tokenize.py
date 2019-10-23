@@ -10,14 +10,14 @@ class TokenizeTestSuite(unittest.TestCase):
     """Advanced test cases."""
 
     def test_add_named_entity(self):
-        text = "Krissy is the best aunt in the world."
+        text = "Paisley"
         doc = nlp(text)
         start_index = 0
-        end_index = 2
+        end_index = 1
         entity_type = "PERSON"
         entities = src.get_named_entities_metadata(text)
-        # print(entities)
-        # src.add_named_entity(doc, start_index, end_index, entity_type)
+
+        assert src.add_named_entity(doc, start_index, end_index, entity_type) == 'Entity "Paisley" successfully added to type PERSON.'
 
     def test_get_tokens(self):
         text = 'Denver is the biggest city in Colorado.'

@@ -11,15 +11,14 @@ def logUtil(text):
 def add_named_entity(doc, start_index, end_index, entity_label):
     # The spacy NER list will not include all named entities; we may need to add some manually in order to achieve the desired textual analysis.
 
-
-    # We need to first check if it already exists!!!
+    # We need to first check if it already exists
     entity_hash = doc.vocab.strings[entity_label]
     new_ent = Span(doc, start_index, end_index, label=entity_hash)
     print('before: ', doc.ents)
     doc.ents = list(doc.ents) + [new_ent]
     print('after: ', doc.ents)
 
-    return doc
+    return f'Entity "{new_ent}" successfully added to type {entity_label}.'
 
 def get_tokens(text):
     tokens = []
