@@ -53,5 +53,10 @@ class EntitiesTestSuite(unittest.TestCase):
         text2 = 'Many people believe that English is harder to learn than Spanish.'
         assert src.get_named_entities_by_label(text2, label2) == ['English', 'Spanish']
 
+    def test_get_number_of_named_entities_by_label(self):
+        label = 'GPE'
+        text = 'I have visited many countries. In 2008, I moved to South Korea. In 2009, I traveled to Chile and Ecuador for a few months. In the past five years, I have visited several provinces in Canada.'
+        assert src.get_number_of_named_entities_by_label(text, label) == 4
+
 if __name__ == '__main__':
     unittest.main()

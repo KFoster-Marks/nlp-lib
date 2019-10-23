@@ -5,6 +5,7 @@ from .entities import get_named_entities
 from .entities import get_named_entities_metadata
 from .entities import get_named_entity_label_explanations
 from .entities import get_named_entities_by_label
+from .entities import get_number_of_named_entities_by_label
 
 from .tokenize import get_tokens
 from .tokenize import get_base_noun_phrases
