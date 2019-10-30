@@ -17,5 +17,9 @@ class SegmentTestSuite(unittest.TestCase):
 
         assert src.get_custom_segment(text) == ['Not everyone agrees on the best way to build software;', 'many argue over the costs and benefits of waterfall versus agile, for example.']
 
+        text2 = u'Applying for jobs can be painstaking; however, you must trust that it will work out for the best.'
+
+        assert src.get_segments(text2) == ['Applying for jobs can be painstaking;', 'however, you must trust that it will work out for the best.']
+
 if __name__ == '__main__':
     unittest.main()
