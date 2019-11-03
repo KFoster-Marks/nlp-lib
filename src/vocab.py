@@ -9,6 +9,7 @@ nlp = spacy.load("en_core_web_sm")
 matcher = PhraseMatcher(nlp.vocab)
 
 def check_is_stop_word(text):
+    # practice error handling
     return nlp.vocab[text].is_stop
 
 def write_url_html_to_file(url, file_name):
